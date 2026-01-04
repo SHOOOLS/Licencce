@@ -1,0 +1,27 @@
+{
+  "Farm_bot": {
+    "version": "1.19.85",
+    "download_url": "https://mega.nz/file/nw1HUZpb#GeLQXwVnRdNObyL6lA5Uj8MDrsyAPYYEFe4xdmePQZ4",
+    "changelog": "Changes in Farm_bot:\n- Fix bugs..."
+  },
+  "Universal": {
+    "version": "0.67",
+    "download_url": "https://drive.google.com/...",
+    "changelog": "Changes in Universal:\n- ..."
+  },
+  "Hunt": {
+    "version": "1.51",
+    "download_url": "https://drive.google.com/...",
+    "changelog": "Changes in Hunt:\n- Fixed the list for selecting equipment after hunting..."
+  },
+  "Rally_party": {
+    "version": "0.19",
+    "download_url": "https://drive.google.com/...",
+    "changelog": "Changes in Rally_party:\n- ..."
+  },
+  "Filler": {
+    "version": "1.41",
+    "download_url": "https://drive.google.com/...",
+    "changelog": "Changes in Filler:\n- ..."
+  }
+}
