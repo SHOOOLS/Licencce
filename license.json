@@ -190,7 +190,7 @@
                 }
             }
         },
-        "SHOOLS": {
+        "SHOOLSi": {
             "licenses": {
                 "Farm_bot": {
                     "expiration_date": "2026-12-10",
@@ -767,4 +767,5 @@
     }
 
 }
+
 
