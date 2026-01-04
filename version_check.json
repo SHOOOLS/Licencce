@@ -12,7 +12,7 @@
   "Hunt": {
     "version": "1.53",
     "download_url": "https://drive.google.com/...",
-    "changelog": "Changes in Hunt:\n- Fixed the list for selecting equipment after hunting..."
+    "changelog": "Changes in Hunt:\n- Fixed the list for selecting equipment after hunting...\n- Changed the verification logic and license speed..."
   },
   "Rally_party": {
     "version": "0.19",
@@ -26,4 +26,5 @@
   }
 
 }
+
 
