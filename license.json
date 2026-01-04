@@ -209,7 +209,7 @@
                     "chat_id_user_finish": "-4836306484"
                 },
                 "Hunt": {
-                    "expiration_date": "2025-12-02",
+                    "expiration_date": "2026-12-02",
                     "chat_id_user_finish": "-4836306484"
                 },
                 "Rally_party": {
@@ -766,4 +766,5 @@
         }
     }
 }
+
 
