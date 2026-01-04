@@ -104,7 +104,7 @@
                     "expiration_date": "2025-03-08"
                 },
                 "Universal": {
-                    "expiration_date": "2025-12-04",
+                    "expiration_date": "2026-02-04",
                     "chat_id_user_finish": ""
                 },
                 "Hunt": {
@@ -190,7 +190,7 @@
                 }
             }
         },
-        "SHOOLSi": {
+        "SHOOLS": {
             "licenses": {
                 "Farm_bot": {
                     "expiration_date": "2026-12-10",
@@ -233,7 +233,7 @@
         "STE": {
             "licenses": {
                 "Universal": {
-                    "expiration_date": "2025-12-04",
+                    "expiration_date": "2026-02-04",
                     "chat_id_user_finish": "-4682053243"
                 },
                 "Hunt": {
@@ -309,7 +309,7 @@
         "Hunters": {
             "licenses": {
                 "Hunt": {
-                    "expiration_date": "2025-12-30",
+                    "expiration_date": "2026-01-04",
                     "chat_id_user_finish": ""
                 }
             }
@@ -335,7 +335,7 @@
                     "chat_id_user_finish": "-4880146474"
                 },
                 "Hunt": {
-                    "expiration_date": "2025-12-29",
+                    "expiration_date": "2026-01-04",
                     "chat_id_user_finish": ""
                 },
                 "Universal": {
@@ -765,7 +765,4 @@
             }
         }
     }
-
 }
-
-
