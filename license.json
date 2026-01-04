@@ -1,0 +1,768 @@
+{
+    "users": {
+        "Murochka": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2025-08-08"
+                },
+                "Universal": {
+                    "expiration_date": "2025-08-08",
+                    "chat_id_user_finish": ""
+                },
+                "Hunt": {
+                    "expiration_date": "2025-08-18",
+                    "chat_id_user_finish": ""
+                },
+                "Rally_party": {
+                    "expiration_date": "2025-07-08"
+                },
+                "Shield": {
+                    "expiration_date": "2025-07-08"
+                }
+            }
+        },
+        "Demon": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2025-03-08"
+                },
+                "Universal": {
+                    "expiration_date": "2026-01-08",
+                    "chat_id_user_finish": "-4521479218"
+                },
+                "Hunt": {
+                    "expiration_date": "2025-11-05",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
+        "Friends": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2025-05-08"
+                },
+                "Universal": {
+                    "expiration_date": "2025-05-08"
+                },
+                "Hunt": {
+                    "expiration_date": "2025-05-08"
+                },
+                "Rally_party": {
+                    "expiration_date": "2025-10-08"
+                },
+                "Shield": {
+                    "expiration_date": "2025-05-08"
+                },
+                "Diplo_bot": {
+                    "expiration_date": "2025-05-08"
+                }
+            }
+        },
+        "OldFriends": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2025-12-08",
+                    "chat_id_user_finish": ""
+                },
+                "Universal": {
+                    "expiration_date": "2025-12-08",
+                    "chat_id_user_finish": ""
+                },
+                "Hunt": {
+                    "expiration_date": "2025-12-08",
+                    "chat_id_user_finish": ""
+                },
+                "Rally_party": {
+                    "expiration_date": "2025-12-08",
+                    "chat_id_user_finish": ""
+                },
+                "Shield": {
+                    "expiration_date": "2026-12-08",
+                    "chat_id_user_finish": ""
+                },
+                "Diplo_bot": {
+                    "expiration_date": "2025-12-08",
+                    "chat_id_user_finish": ""
+                },
+                "SpeedUp": {
+                    "expiration_date": "2025-12-08",
+                    "chat_id_user_finish": ""
+                },
+                "Filler": {
+                    "expiration_date": "2025-12-08",
+                    "chat_id_user_finish": ""
+                },
+                "Trade": {
+                    "expiration_date": "2026-12-08",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
+        "Stefano": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2025-03-08"
+                },
+                "Universal": {
+                    "expiration_date": "2025-12-04",
+                    "chat_id_user_finish": ""
+                },
+                "Hunt": {
+                    "expiration_date": "2026-02-04",
+                    "chat_id_user_finish": ""
+                },
+                "Rally_party": {
+                    "expiration_date": "2025-03-08"
+                }
+            }
+        },
+        "Japan": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2025-11-06",
+                    "chat_id_user_finish": ""
+                },
+                "Universal": {
+                    "expiration_date": "2025-11-06",
+                    "chat_id_user_finish": ""
+                },
+                "Hunt": {
+                    "expiration_date": "2025-11-06",
+                    "chat_id_user_finish": ""
+                },
+                "Rally_party": {
+                    "expiration_date": "2025-02-08"
+                },
+                "Shield": {
+                    "expiration_date": "2025-02-08"
+                },
+                "Trade": {
+                    "expiration_date": "2026-11-06",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
+        "HeBoSs": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2025-11-04",
+                    "chat_id_user_finish": ""
+                },
+                "Universal": {
+                    "expiration_date": "2025-11-04",
+                    "chat_id_user_finish": ""
+                },
+                "Hunt": {
+                    "expiration_date": "2025-11-04",
+                    "chat_id_user_finish": ""
+                },
+                "Rally_party": {
+                    "expiration_date": "2025-02-08"
+                },
+                "Shield": {
+                    "expiration_date": "2025-02-08"
+                }
+            }
+        },
+        "DARKPOLLO": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2026-08-29",
+                    "chat_id_user_finish": "-4604876945"
+                },
+                "Universal": {
+                    "expiration_date": "2026-08-29",
+                    "chat_id_user_finish": "-4604876945"
+                },
+                "Hunt": {
+                    "expiration_date": "2026-08-29",
+                    "chat_id_user_finish": ""
+                },
+                "Rally_party": {
+                    "expiration_date": "2026-02-08",
+                    "chat_id_user_finish": "-4604876945"
+                },
+                "Shield": {
+                    "expiration_date": "2025-02-08"
+                },
+                "Diplo_bot": {
+                    "expiration_date": "2025-05-28"
+                }
+            }
+        },
+        "SHOOLS": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2026-12-10",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Filler": {
+                    "expiration_date": "2026-12-02",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Trade": {
+                    "expiration_date": "2026-12-02",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Universal": {
+                    "expiration_date": "2026-12-02",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Hunt": {
+                    "expiration_date": "2026-12-02",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Rally_party": {
+                    "expiration_date": "2026-12-02",
+                    "chat_id_user_finish": ""
+                },
+                "Shield": {
+                    "expiration_date": "2026-12-02",
+                    "chat_id_user_finish": ""
+                },
+                "SpeedUp": {
+                    "expiration_date": "2026-12-02",
+                    "chat_id_user_finish": ""
+                },
+                "Diplo_bot": {
+                    "expiration_date": "2026-12-02",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
+        "STE": {
+            "licenses": {
+                "Universal": {
+                    "expiration_date": "2025-12-04",
+                    "chat_id_user_finish": "-4682053243"
+                },
+                "Hunt": {
+                    "expiration_date": "2026-02-04",
+                    "chat_id_user_finish": ""
+                },
+                "Trade": {
+                    "expiration_date": "2026-02-04",
+                    "chat_id_user_finish": "-4682053243"
+                },
+                "SpeedUp": {
+                    "expiration_date": "2026-02-04",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
+        "Filippo": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2026-11-06",
+                    "chat_id_user_finish": "-4604876945"
+                },
+                "Hunt": {
+                    "expiration_date": "2026-11-06",
+                    "chat_id_user_finish": ""
+                },
+                "Trade": {
+                    "expiration_date": "2026-11-06",
+                    "chat_id_user_finish": "-4604876945"
+                },
+                "Universal": {
+                    "expiration_date": "2026-11-06",
+                    "chat_id_user_finish": "-4604876945"
+                },
+                "Filler": {
+                    "expiration_date": "2026-11-06",
+                    "chat_id_user_finish": "-4604876945"
+                },
+                "Diplo_bot": {
+                    "expiration_date": "2026-10-31",
+                    "chat_id_user_finish": ""
+                },
+                "Rally_party": {
+                    "expiration_date": "2026-10-31",
+                    "chat_id_user_finish": ""
+                },
+                "SpeedUp": {
+                    "expiration_date": "2026-10-31",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
+        "fsala": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2025-11-04",
+                    "chat_id_user_finish": "-4715748564"
+                },
+                "Hunt": {
+                    "expiration_date": "2025-11-04",
+                    "chat_id_user_finish": ""
+                },
+                "Trade": {
+                    "expiration_date": "2025-11-04",
+                    "chat_id_user_finish": "-4715748564"
+                },
+                "Universal": {
+                    "expiration_date": "2025-11-04",
+                    "chat_id_user_finish": "-4715748564"
+                }
+            }
+        },
+        "Hunters": {
+            "licenses": {
+                "Hunt": {
+                    "expiration_date": "2025-12-30",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
+        "Max": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2025-09-14"
+                },
+                "Hunt": {
+                    "expiration_date": "2025-12-29",
+                    "chat_id_user_finish": ""
+                },
+                "Universal": {
+                    "expiration_date": "2025-09-14"
+                }
+            }
+        },
+        "Acer": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2025-12-22",
+                    "chat_id_user_finish": "-4880146474"
+                },
+                "Hunt": {
+                    "expiration_date": "2025-12-29",
+                    "chat_id_user_finish": ""
+                },
+                "Universal": {
+                    "expiration_date": "2025-12-22",
+                    "chat_id_user_finish": "-4880146474"
+                },
+                "Trade": {
+                    "expiration_date": "2025-12-22",
+                    "chat_id_user_finish": "-4880146474"
+                }
+            }
+        },
+        "mastr": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2026-08-29",
+                    "chat_id_user_finish": "-4604876945"
+                },
+                "Universal": {
+                    "expiration_date": "2026-08-29",
+                    "chat_id_user_finish": "-4604876945"
+                },
+                "Hunt": {
+                    "expiration_date": "2026-08-29",
+                    "chat_id_user_finish": ""
+                },
+                "Rally_party": {
+                    "expiration_date": "2026-10-11",
+                    "chat_id_user_finish": ""
+                },
+                "Filler": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": "-4604876945"
+                },
+                "SpeedUp": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": ""
+                },
+                "Trade": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": "-4604876945"
+                }
+            }
+        },
+        "Artur7": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2026-01-15",
+                    "chat_id_user_finish": "-4880146474"
+                },
+                "Hunt": {
+                    "expiration_date": "2026-01-15",
+                    "chat_id_user_finish": ""
+                },
+                "Trade": {
+                    "expiration_date": "2026-01-15",
+                    "chat_id_user_finish": "-4880146474"
+                },
+                "Universal": {
+                    "expiration_date": "2026-01-15",
+                    "chat_id_user_finish": "-4880146474"
+                }
+            }
+        },
+        "oblez": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2026-01-18",
+                    "chat_id_user_finish": "-4984347681"
+                },
+                "Filler": {
+                    "expiration_date": "2026-01-18",
+                    "chat_id_user_finish": "-4984347681"
+                },
+                "SpeedUp": {
+                    "expiration_date": "2026-01-18",
+                    "chat_id_user_finish": ""
+                },
+                "Trade": {
+                    "expiration_date": "2026-01-18",
+                    "chat_id_user_finish": "-4984347681"
+                },
+                "Universal": {
+                    "expiration_date": "2026-01-18",
+                    "chat_id_user_finish": "-4984347681"
+                },
+                "Hunt": {
+                    "expiration_date": "2026-01-18",
+                    "chat_id_user_finish": ""
+                },
+                "Rally_party": {
+                    "expiration_date": "2026-01-18",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
+        "FRAN": {
+            "licenses": {
+                "Rally_party": {
+                    "expiration_date": "2026-10-09",
+                    "chat_id_user_finish": ""
+                },
+                "Farm_bot": {
+                    "expiration_date": "2026-10-13",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Filler": {
+                    "expiration_date": "2026-10-20",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Universal": {
+                    "expiration_date": "2026-10-20",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Hunt": {
+                    "expiration_date": "2026-11-28",
+                    "chat_id_user_finish": ""
+                },
+                "SpeedUp": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": ""
+                },
+                "Trade": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": "-1002714061811"
+                }
+            }
+        },
+        "timof": {
+            "licenses": {
+                "Rally_party": {
+                    "expiration_date": "2026-10-11",
+                    "chat_id_user_finish": ""
+                },
+                "Farm_bot": {
+                    "expiration_date": "2026-10-13",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Filler": {
+                    "expiration_date": "2026-10-24",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Trade": {
+                    "expiration_date": "2026-10-24",
+                    "chat_id_user_finish": ""
+                },
+                "Hunt": {
+                    "expiration_date": "2026-10-24",
+                    "chat_id_user_finish": ""
+                },
+                "Universal": {
+                    "expiration_date": "2026-10-24",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Diplo_bot": {
+                    "expiration_date": "2026-11-19",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
+        "patry": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2026-10-13",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Rally_party": {
+                    "expiration_date": "2026-10-13",
+                    "chat_id_user_finish": ""
+                },
+                "Hunt": {
+                    "expiration_date": "2026-11-28",
+                    "chat_id_user_finish": ""
+                },
+                "Universal": {
+                    "expiration_date": "2026-11-29",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Filler": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "SpeedUp": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": ""
+                },
+                "Trade": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": "-1002714061811"
+                }
+            }
+        },
+        "path6": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2026-10-13",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Rally_party": {
+                    "expiration_date": "2026-10-13",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Hunt": {
+                    "expiration_date": "2026-11-28",
+                    "chat_id_user_finish": ""
+                },
+                "Universal": {
+                    "expiration_date": "2026-11-29",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Filler": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "SpeedUp": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": ""
+                },
+                "Trade": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": "-1002714061811"
+                }
+            }
+        },
+        "Nikola": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2026-10-13",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Rally_party": {
+                    "expiration_date": "2026-10-13",
+                    "chat_id_user_finish": ""
+                },
+                "Hunt": {
+                    "expiration_date": "2026-11-28",
+                    "chat_id_user_finish": ""
+                },
+                "Universal": {
+                    "expiration_date": "2026-11-01",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Filler": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "SpeedUp": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": ""
+                },
+                "Trade": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": "-1002714061811"
+                }
+            }
+        },
+        "Mircea Jan": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2026-01-28",
+                    "chat_id_user_finish": "-4677941857"
+                },
+                "Trade": {
+                    "expiration_date": "2026-01-28",
+                    "chat_id_user_finish": "-4677941857"
+                },
+                "Hunt": {
+                    "expiration_date": "2026-01-28",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
+        "user": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2025-11-05",
+                    "chat_id_user_finish": "-4521479218"
+                },
+                "Universal": {
+                    "expiration_date": "2026-01-19",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
+        "Admin": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2026-11-11",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Rally_party": {
+                    "expiration_date": "2026-11-11",
+                    "chat_id_user_finish": "-4903348294"
+                },
+                "Hunt": {
+                    "expiration_date": "2026-11-11",
+                    "chat_id_user_finish": ""
+                },
+                "Trade": {
+                    "expiration_date": "2026-11-11",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Universal": {
+                    "expiration_date": "2026-11-11",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Diplo_bot": {
+                    "expiration_date": "2026-12-30",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
+        "Дима": {
+            "licenses": {
+                "Universal": {
+                    "expiration_date": "2026-01-05",
+                    "chat_id_user_finish": "-4521479218"
+                }
+            }
+        },
+        "franc": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2026-12-25",
+                    "chat_id_user_finish": "-5247524760"
+                },
+                "Filler": {
+                    "expiration_date": "2026-12-25",
+                    "chat_id_user_finish": "-5247524760"
+                },
+                "Hunt": {
+                    "expiration_date": "2026-12-25",
+                    "chat_id_user_finish": ""
+                },
+                "Rally_party": {
+                    "expiration_date": "2026-12-25",
+                    "chat_id_user_finish": "-5247524760"
+                },
+                "Trade": {
+                    "expiration_date": "2026-12-25",
+                    "chat_id_user_finish": "-5247524760"
+                },
+                "Universal": {
+                    "expiration_date": "2026-12-25",
+                    "chat_id_user_finish": "-5247524760"
+                },
+                "Diplo_bot": {
+                    "expiration_date": "2026-12-25",
+                    "chat_id_user_finish": ""
+                },
+                "SpeedUp": {
+                    "expiration_date": "2026-12-25",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
+        "Francesco Barraco": {
+            "licenses": {
+                "Diplo_bot": {
+                    "expiration_date": "2026-12-26",
+                    "chat_id_user_finish": ""
+                },
+                "Farm_bot": {
+                    "expiration_date": "2026-12-26",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Filler": {
+                    "expiration_date": "2026-12-26",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Hunt": {
+                    "expiration_date": "2026-12-26",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Rally_party": {
+                    "expiration_date": "2026-12-26",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "SpeedUp": {
+                    "expiration_date": "2026-12-26",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Trade": {
+                    "expiration_date": "2026-12-26",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Universal": {
+                    "expiration_date": "2026-12-26",
+                    "chat_id_user_finish": "-1002714061811"
+                }
+            }
+        },
+        "Bitle": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2027-01-03",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Diplo_bot": {
+                    "expiration_date": "2027-01-03",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Filler": {
+                    "expiration_date": "2027-01-03",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Hunt": {
+                    "expiration_date": "2027-01-03",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Rally_party": {
+                    "expiration_date": "2027-01-03",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "SpeedUp": {
+                    "expiration_date": "2027-01-03",
+                    "chat_id_user_finish": ""
+                },
+                "Trade": {
+                    "expiration_date": "2027-01-03",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Universal": {
+                    "expiration_date": "2027-01-03",
+                    "chat_id_user_finish": "-4836306484"
+                }
+            }
+        }
+    }
+}
