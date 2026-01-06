@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.19.85",
+    "version": "1.19.86",
     "download_url": "https://mega.nz/file/nw1HUZpb#GeLQXwVnRdNObyL6lA5Uj8MDrsyAPYYEFe4xdmePQZ4",
-    "changelog": "Changes in Farm_bot:\n- Fix bugs..."
+    "changelog": "Changes in Farm_bot:\n- Increased recognition threshold for transitioning to target coordinates\n- Updated license logic\n- Fixed minor bugs \n- Functionality improvements  \n- If you don't have any materials for development and the training flag is set (when there is both training and development events), the bot will perform training."
   },
   "Universal": {
     "version": "0.67",
@@ -26,6 +26,7 @@
   }
 
 }
+
 
 
 
