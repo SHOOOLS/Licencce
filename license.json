@@ -651,7 +651,7 @@
         "Дима": {
             "licenses": {
                 "Universal": {
-                    "expiration_date": "2026-01-05",
+                    "expiration_date": "2026-04-05",
                     "chat_id_user_finish": "-4521479218"
                 }
             }
@@ -766,5 +766,6 @@
         }
     }
 }
+
 
 
