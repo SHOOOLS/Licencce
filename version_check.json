@@ -5,7 +5,7 @@
     "changelog": "Changes in Farm_bot:\n- Increased recognition threshold for transitioning to target coordinates\n- Updated license logic\n- Fixed minor bugs \n- Functionality improvements  \n- If you don't have any materials for development and the training flag is set (when there is both training and development events), the bot will perform training."
   },
   "Universal": {
-    "version": "0.67",
+    "version": "0.68",
     "download_url": "https://drive.google.com/...",
     "changelog": "Changes in Universal:\n- ..."
   },
@@ -26,6 +26,7 @@
   }
 
 }
+
 
 
 
