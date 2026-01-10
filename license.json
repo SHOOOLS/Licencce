@@ -403,31 +403,31 @@
         "oblez": {
             "licenses": {
                 "Farm_bot": {
-                    "expiration_date": "2026-01-18",
+                    "expiration_date": "2026-01-11",
                     "chat_id_user_finish": "-4984347681"
                 },
                 "Filler": {
-                    "expiration_date": "2026-01-18",
+                    "expiration_date": "2026-01-11",
                     "chat_id_user_finish": "-4984347681"
                 },
                 "SpeedUp": {
-                    "expiration_date": "2026-01-18",
+                    "expiration_date": "2026-01-11",
                     "chat_id_user_finish": ""
                 },
                 "Trade": {
-                    "expiration_date": "2026-01-18",
+                    "expiration_date": "2026-01-11",
                     "chat_id_user_finish": "-4984347681"
                 },
                 "Universal": {
-                    "expiration_date": "2026-01-18",
+                    "expiration_date": "2026-01-11",
                     "chat_id_user_finish": "-4984347681"
                 },
                 "Hunt": {
-                    "expiration_date": "2026-01-18",
+                    "expiration_date": "2026-01-11",
                     "chat_id_user_finish": ""
                 },
                 "Rally_party": {
-                    "expiration_date": "2026-01-18",
+                    "expiration_date": "2026-01-11",
                     "chat_id_user_finish": ""
                 }
             }
@@ -766,6 +766,7 @@
         }
     }
 }
+
 
 
 
