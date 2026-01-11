@@ -23,9 +23,15 @@
     "version": "1.41",
     "download_url": "https://drive.google.com/...",
     "changelog": "Changes in Filler:\n- ..."
+  },
+  "Trade": {
+    "version": "1.44",
+    "download_url": "https://drive.google.com/...",
+    "changelog": "Changes in Trade:\n- ..."
   }
 
 }
+
 
 
 
