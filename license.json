@@ -383,19 +383,19 @@
         "Artur7": {
             "licenses": {
                 "Farm_bot": {
-                    "expiration_date": "2026-01-15",
+                    "expiration_date": "2026-02-15",
                     "chat_id_user_finish": "-4880146474"
                 },
                 "Hunt": {
-                    "expiration_date": "2026-01-15",
+                    "expiration_date": "2026-02-15",
                     "chat_id_user_finish": ""
                 },
                 "Trade": {
-                    "expiration_date": "2026-01-15",
+                    "expiration_date": "2026-02-15",
                     "chat_id_user_finish": "-4880146474"
                 },
                 "Universal": {
-                    "expiration_date": "2026-01-15",
+                    "expiration_date": "2026-02-15",
                     "chat_id_user_finish": "-4880146474"
                 }
             }
@@ -766,6 +766,7 @@
         }
     }
 }
+
 
 
 
