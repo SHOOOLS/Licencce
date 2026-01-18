@@ -10,9 +10,9 @@
     "changelog": "Changes in Universal:\n- ..."
   },
   "Hunt": {
-    "version": "1.52",
-    "download_url": "https://mega.nz/file/W81DgbbY#EL5lpyH5ez7qVmQ_gyRPdnA6CCbTICnbnNXxTht1b2E",
-    "changelog": "Changes in Hunt:\n- Fixed the list for selecting equipment after hunting...\n- Changed the verification logic and license speed..."
+    "version": "1.53",
+    "download_url": "https://mega.nz/file/O0cAGJhL#Hu79KvUyJ1E2a6rGTAGrWhWFqLYDmMAwRdKK5H5tnHY",
+    "changelog": "Changes in Hunt:\n- There was a problem with hunting spots (there weren't enough of them in k13 XD).\n- Added about 15 spots (about 30 in total).\n- We will test whether the new spots will interfere with each other when hunting.\n- Bugs fixed."
   },
   "Rally_party": {
     "version": "0.19",
@@ -31,6 +31,7 @@
   }
 
 }
+
 
 
 
