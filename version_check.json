@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.19.86",
-    "download_url": "https://mega.nz/file/akMB0Boa#CCP8KF1fD-qHbCPJtSc-M_szj3HRyRYUVy3lXm-kN3w",
-    "changelog": "Changes in Farm_bot:\n- Increased recognition threshold for transitioning to target coordinates\n- Updated license logic\n- Fixed minor bugs \n- Functionality improvements  \n- If you don't have any materials for development and the training flag is set (when there is both training and development events), the bot will perform training."
+    "version": "1.19.87",
+    "download_url": "https://mega.nz/file/ep9lVBwK#txTH6PGH-3-tCGSukZPzhnFBRmjJll97ZlGk44k2muM",
+    "changelog": "Changes in Farm_bot:\n- Added a random nickname change option.\n- It will change immediately upon launch and before teleportation (if activated)."
   },
   "Universal": {
     "version": "0.67",
@@ -31,6 +31,7 @@
   }
 
 }
+
 
 
 
