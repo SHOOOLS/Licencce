@@ -85,7 +85,7 @@
                     "chat_id_user_finish": ""
                 },
                 "SpeedUp": {
-                    "expiration_date": "2025-12-08",
+                    "expiration_date": "2026-12-08",
                     "chat_id_user_finish": ""
                 },
                 "Filler": {
@@ -766,6 +766,7 @@
         }
     }
 }
+
 
 
 
