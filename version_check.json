@@ -5,9 +5,9 @@
     "changelog": "Changes in Farm_bot:\n- Added a random nickname change option.\n- It will change immediately upon launch and before teleportation (if activated)."
   },
   "Universal": {
-    "version": "0.67",
-    "download_url": "https://drive.google.com/...",
-    "changelog": "Changes in Universal:\n- ..."
+    "version": "0.69",
+    "download_url": "https://mega.nz/file/ypcB2ZRa#n-Bg_L8hA1U84ihEJO7MFGsGcqOAbCsXJzVrqW2EeXM",
+    "changelog": "Changes in Universal:\n- Added the 'Only hell event' parameter \n- If this option is enabled, the account will only participate in hellish events, then close the game until the next event."
   },
   "Hunt": {
     "version": "1.53",
@@ -31,6 +31,7 @@
   }
 
 }
+
 
 
 
