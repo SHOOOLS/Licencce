@@ -21,6 +21,38 @@
                 }
             }
         },
+        "alexa": {
+            "licenses": {
+                "Rally_party": {
+                    "expiration_date": "2026-10-11",
+                    "chat_id_user_finish": ""
+                },
+                "Farm_bot": {
+                    "expiration_date": "2026-10-13",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Filler": {
+                    "expiration_date": "2026-10-24",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Trade": {
+                    "expiration_date": "2026-10-24",
+                    "chat_id_user_finish": ""
+                },
+                "Hunt": {
+                    "expiration_date": "2026-10-24",
+                    "chat_id_user_finish": ""
+                },
+                "Universal": {
+                    "expiration_date": "2026-10-24",
+                    "chat_id_user_finish": "-4836306484"
+                },
+                "Diplo_bot": {
+                    "expiration_date": "2026-11-19",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
         "Demon": {
             "licenses": {
                 "Farm_bot": {
@@ -766,6 +798,7 @@
         }
     }
 }
+
 
 
 
