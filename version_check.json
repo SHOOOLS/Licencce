@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.19.87",
-    "download_url": "https://mega.nz/file/ep9lVBwK#txTH6PGH-3-tCGSukZPzhnFBRmjJll97ZlGk44k2muM",
-    "changelog": "Changes in Farm_bot:\n- Added a random nickname change option.\n- It will change immediately upon launch and before teleportation (if activated)."
+    "version": "1.19.94",
+    "download_url": "https://mega.nz/file/H4s30KTS#GC4S0tjqIjpMuqjiKK0C59-BY6Ku7ZOqtofNgACnJQI",
+    "changelog": "Changes in Farm_bot:\n- The number of requests to the tesseract has been reduced. \n- After reducing the power, the bot will check the user's rally until they log in. \n- After determining the rally, it will also be checked and spammed until the user logs in. \n- Improved attack performance. (I have X2) . \n- Added Emulator and Tesseract error handling. \n- Minor fixes and feature improvements."
   },
   "Universal": {
     "version": "0.69",
@@ -31,6 +31,7 @@
   }
 
 }
+
 
 
 
