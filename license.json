@@ -341,7 +341,7 @@
         "Hunters": {
             "licenses": {
                 "Hunt": {
-                    "expiration_date": "2026-01-31",
+                    "expiration_date": "2026-02-01",
                     "chat_id_user_finish": ""
                 }
             }
@@ -798,16 +798,3 @@
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
