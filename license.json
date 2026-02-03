@@ -140,7 +140,7 @@
                     "chat_id_user_finish": ""
                 },
                 "Hunt": {
-                    "expiration_date": "2026-02-04",
+                    "expiration_date": "2026-03-04",
                     "chat_id_user_finish": ""
                 },
                 "Rally_party": {
@@ -269,15 +269,15 @@
                     "chat_id_user_finish": "-4682053243"
                 },
                 "Hunt": {
-                    "expiration_date": "2026-02-04",
+                    "expiration_date": "2026-03-04",
                     "chat_id_user_finish": ""
                 },
                 "Trade": {
-                    "expiration_date": "2026-02-04",
+                    "expiration_date": "2026-03-04",
                     "chat_id_user_finish": "-4682053243"
                 },
                 "SpeedUp": {
-                    "expiration_date": "2026-02-04",
+                    "expiration_date": "2026-03-04",
                     "chat_id_user_finish": ""
                 }
             }
@@ -341,7 +341,7 @@
         "Hunters": {
             "licenses": {
                 "Hunt": {
-                    "expiration_date": "2026-02-02",
+                    "expiration_date": "2026-02-03",
                     "chat_id_user_finish": ""
                 }
             }
@@ -798,5 +798,6 @@
         }
     }
 }
+
 
 
