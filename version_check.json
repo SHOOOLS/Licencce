@@ -10,9 +10,9 @@
     "changelog": "Changes in Universal:\n- Added the 'Only hell event' parameter \n- If this option is enabled, the account will only participate in hellish events, then close the game until the next event."
   },
   "Hunt": {
-    "version": "1.53",
-    "download_url": "https://mega.nz/file/O0cAGJhL#Hu79KvUyJ1E2a6rGTAGrWhWFqLYDmMAwRdKK5H5tnHY",
-    "changelog": "Changes in Hunt:\n- There was a problem with hunting spots (there weren't enough of them in k13 XD).\n- Added about 15 spots (about 30 in total).\n- We will test whether the new spots will interfere with each other when hunting.\n- Bugs fixed."
+    "version": "1.55",
+    "download_url": "https://mega.nz/file/3gF2kSib#tLo-C4axDKtR__VjX7FhgMIxNnXpxnXdyDlcZP24AxA",
+    "changelog": "Changes in Hunt:\n- Added error checking for the tether and emulator.\n- Reduced the waiting time before leaving the guild (-10 minutes).\n- Added gift collection before going hunting.\n- Added additional spots for TP (small k).\n- Increased coin collection time from 3 → 5 minutes. \n-Changed the default value for the number of monsters from 40 → 100. \n- Changed the default value for the type of hunt to ‘mix’.\n-Minor fixes and corrections. "
   },
   "Rally_party": {
     "version": "0.19",
@@ -31,6 +31,7 @@
   }
 
 }
+
 
 
 
