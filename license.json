@@ -367,7 +367,7 @@
                     "chat_id_user_finish": "-4880146474"
                 },
                 "Hunt": {
-                    "expiration_date": "2026-01-04",
+                    "expiration_date": "2026-03-09",
                     "chat_id_user_finish": ""
                 },
                 "Universal": {
@@ -798,6 +798,7 @@
         }
     }
 }
+
 
 
 
