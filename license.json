@@ -522,6 +522,10 @@
                     "expiration_date": "2026-10-24",
                     "chat_id_user_finish": "-4836306484"
                 },
+                "Shield": {
+                    "expiration_date": "2026-10-24",
+                    "chat_id_user_finish": "-4836306484"
+                },
                 "Diplo_bot": {
                     "expiration_date": "2026-11-19",
                     "chat_id_user_finish": ""
@@ -798,6 +802,7 @@
         }
     }
 }
+
 
 
 
