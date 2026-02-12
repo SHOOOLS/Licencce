@@ -15,9 +15,9 @@
     "changelog": "Changes in Hunt:\n- Added error checking for the tether and emulator.\n- Reduced the waiting time before leaving the guild (-10 minutes).\n- Added gift collection before going hunting.\n- Added additional spots for TP (small k).\n- Increased coin collection time from 3 → 5 minutes. \n-Changed the default value for the number of monsters from 40 → 100. \n- Changed the default value for the type of hunt to ‘mix’.\n-Minor fixes and corrections. "
   },
   "Rally_party": {
-    "version": "0.19",
-    "download_url": "https://drive.google.com/...",
-    "changelog": "Changes in Rally_party:\n- ..."
+    "version": "0.19.1",
+    "download_url": "https://mega.nz/file/ittxiIBR#yW1aivWjWDl0OMO4aAPGKcyB3RUyf2tEoU2952wQO7c",
+    "changelog": "Changes in Rally_party:\n- Now you can load the 'auto' list and add your quests there, for example (154, 202) \n- quests from the 'auto' list will be completed automatically, while yours will require manual completion.\n- Some fixes "
   },
   "Filler": {
     "version": "1.41",
@@ -31,6 +31,7 @@
   }
 
 }
+
 
 
 
