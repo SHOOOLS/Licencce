@@ -651,7 +651,7 @@
                     "chat_id_user_finish": "-4521479218"
                 },
                 "Universal": {
-                    "expiration_date": "2026-02-19",
+                    "expiration_date": "2026-03-19",
                     "chat_id_user_finish": ""
                 }
             }
@@ -802,6 +802,7 @@
         }
     }
 }
+
 
 
 
