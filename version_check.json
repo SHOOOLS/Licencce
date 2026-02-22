@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.19.94",
-    "download_url": "https://mega.nz/file/H4s30KTS#GC4S0tjqIjpMuqjiKK0C59-BY6Ku7ZOqtofNgACnJQI",
-    "changelog": "Changes in Farm_bot:\n- The number of requests to the tesseract has been reduced. \n- After reducing the power, the bot will check the user's rally until they log in. \n- After determining the rally, it will also be checked and spammed until the user logs in. \n- Improved attack performance. (I have X2) . \n- Added Emulator and Tesseract error handling. \n- Minor fixes and feature improvements."
+    "version": "1.20.03",
+    "download_url": "https://mega.nz/file/qhkXUJLQ#rC_-nqTmGqJ_mJmsjDzs_y84FRGcLhWlCCh7YRQs49o",
+    "changelog": "Changes in Farm_bot:\n- Improved performance on some processors \n- Added a Log button (saves the entire console to a file) \n- Minor fixes and feature improvements."
   },
   "Universal": {
     "version": "0.69",
@@ -31,20 +31,3 @@
   }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
