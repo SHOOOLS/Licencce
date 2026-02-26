@@ -24,6 +24,11 @@
     "download_url": "https://drive.google.com/...",
     "changelog": "Changes in Filler:\n- ..."
   },
+  "Speeder": {
+    "version": "0.1",
+    "download_url": "https://drive.google.com/...",
+    "changelog": "Changes in Speeder:\n- ..."
+  },
   "Trade": {
     "version": "1.44",
     "download_url": "https://drive.google.com/...",
@@ -31,5 +36,6 @@
   }
 
 }
+
 
 
