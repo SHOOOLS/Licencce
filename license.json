@@ -256,6 +256,10 @@
                     "expiration_date": "2026-12-02",
                     "chat_id_user_finish": ""
                 },
+                "Speeder": {
+                    "expiration_date": "2026-12-02",
+                    "chat_id_user_finish": ""
+                },
                 "Diplo_bot": {
                     "expiration_date": "2026-12-02",
                     "chat_id_user_finish": ""
@@ -802,6 +806,7 @@
         }
     }
 }
+
 
 
 
