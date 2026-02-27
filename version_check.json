@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.20.03",
-    "download_url": "https://mega.nz/file/SxckFIBC#19ioOiVwdJTiGrTy9kzL20Q2q_ByfZRPWrwjCGX-oSA",
-    "changelog": "Changes in Farm_bot:\n- Improved performance on some processors \n- Added a Log button (saves the entire console to a file) \n- Minor fixes and feature improvements. \n- Returned the ability to send notifications to private messages"
+    "version": "1.20.05",
+    "download_url": "https://mega.nz/file/utswXLDQ#8qTM3E7PClehuhy-e5s0F1UAMUj0qVCwlW52RXS5gtE",
+    "changelog": "Changes in Farm_bot:\n- Startup optimization \n-Added a parameter responsible for teleportation (there must be at least 10 targets within a 20 km radius of the teleportation location) \n- Added a new nickname mode (not completely random, but simply changes the case of letters) \n- Optimization of some functions"
   },
   "Universal": {
     "version": "0.69",
@@ -36,6 +36,7 @@
   }
 
 }
+
 
 
 
