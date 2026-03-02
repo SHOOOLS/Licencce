@@ -99,7 +99,7 @@
                     "expiration_date": "2025-05-08"
                 },
                 "Hunt": {
-                    "expiration_date": "2025-05-08"
+                    "expiration_date": "2026-03-03"
                 },
                 "Rally_party": {
                     "expiration_date": "2025-10-08"
@@ -828,6 +828,7 @@
         }
     }
 }
+
 
 
 
