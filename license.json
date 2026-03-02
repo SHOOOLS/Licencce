@@ -90,6 +90,28 @@
                 }
             }
         },
+        "Trial": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2025-05-08"
+                },
+                "Universal": {
+                    "expiration_date": "2025-05-08"
+                },
+                "Hunt": {
+                    "expiration_date": "2025-05-08"
+                },
+                "Rally_party": {
+                    "expiration_date": "2025-10-08"
+                },
+                "Shield": {
+                    "expiration_date": "2025-05-08"
+                },
+                "Diplo_bot": {
+                    "expiration_date": "2025-05-08"
+                }
+            }
+        },
         "OldFriends": {
             "licenses": {
                 "Farm_bot": {
@@ -806,6 +828,7 @@
         }
     }
 }
+
 
 
 
