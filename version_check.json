@@ -12,7 +12,7 @@
   "Hunt": {
     "version": "1.57",
     "download_url": "https://mega.nz/file/zx8jAS5Q#OdWsAh1pvJZcDGH1mAwWQfTgcDZaBwmIS3I1WG5f5p4",
-    "changelog": "Changes in Hunt:\n Fixed a bug with hunting at level 1.\n Added additional letter verification \n-Minor fixes and corrections. "
+    "changelog": "Changes in Hunt:\n- Fixed a bug with hunting at level 1.\n- Added additional letter verification \n-Minor fixes and corrections. "
   },
   "Rally_party": {
     "version": "0.19.1",
@@ -36,4 +36,5 @@
   }
 
 }
+
 
