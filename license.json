@@ -10,7 +10,7 @@
                     "chat_id_user_finish": ""
                 },
                 "Hunt": {
-                    "expiration_date": "2026-04-19",
+                    "expiration_date": "2025-04-19",
                     "chat_id_user_finish": ""
                 },
                 "Rally_party": {
@@ -682,6 +682,10 @@
                 },
                 "Universal": {
                     "expiration_date": "2026-03-19",
+                    "chat_id_user_finish": ""
+                },
+                "Hunt": {
+                    "expiration_date": "2026-04-19",
                     "chat_id_user_finish": ""
                 }
             }
