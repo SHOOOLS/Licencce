@@ -430,6 +430,26 @@
                 }
             }
         },
+        "Acer@HOME-PC": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2026-12-22",
+                    "chat_id_user_finish": "-4880146474"
+                },
+                "Hunt": {
+                    "expiration_date": "2026-04-22",
+                    "chat_id_user_finish": ""
+                },
+                "Universal": {
+                    "expiration_date": "2025-12-22",
+                    "chat_id_user_finish": "-4880146474"
+                },
+                "Trade": {
+                    "expiration_date": "2025-12-22",
+                    "chat_id_user_finish": "-4880146474"
+                }
+            }
+        },
         "mastr": {
             "licenses": {
                 "Farm_bot": {
