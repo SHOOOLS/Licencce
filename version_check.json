@@ -10,9 +10,9 @@
     "changelog": "Changes in Universal:\n- Added the 'Only hell event' parameter \n- If this option is enabled, the account will only participate in hellish events, then close the game until the next event."
   },
   "Hunt": {
-    "version": "1.57",
-    "download_url": "https://mega.nz/file/zx8jAS5Q#OdWsAh1pvJZcDGH1mAwWQfTgcDZaBwmIS3I1WG5f5p4",
-    "changelog": "Changes in Hunt:\n- Fixed a bug with hunting at level 1.\n- Added additional letter verification \n-Minor fixes and corrections. "
+    "version": "1.58",
+    "download_url": "https://mega.nz/file/zhcAnKRQ#EFfX0akE3WpGnxnR7TJ7MWM8mvyBLa33de0lzkdKKmo",
+    "changelog": "Changes in Hunt:\n- Fixed known bugs.\n- User interface improvements (Monster hits now snap to the right edge of the main window). \n- Added a tooltip when hovering over the ‘Wait on’ button. \n- Minor optimizations"
   },
   "Rally_party": {
     "version": "0.19.1",
