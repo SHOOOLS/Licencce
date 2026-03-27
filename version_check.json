@@ -5,9 +5,9 @@
     "changelog": "Changes in Farm_bot:\n- Fix bugs \n- Optimization of some functions"
   },
   "Universal": {
-    "version": "0.69",
-    "download_url": "https://mega.nz/file/ypcB2ZRa#n-Bg_L8hA1U84ihEJO7MFGsGcqOAbCsXJzVrqW2EeXM",
-    "changelog": "Changes in Universal:\n- Added the 'Only hell event' parameter \n- If this option is enabled, the account will only participate in hellish events, then close the game until the next event."
+    "version": "0.72",
+    "download_url": "https://mega.nz/file/L8sSGQSL#qrlDR2PNObeARxCd8f-Ci6NCGV94vuu8gCj8V3PhpNk",
+    "changelog": "Changes in Universal:\n- Some improvements"
   },
   "Hunt": {
     "version": "1.58",
