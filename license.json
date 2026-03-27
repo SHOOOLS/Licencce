@@ -746,7 +746,7 @@
                 }
             }
         },
-        "user@HOME-PC": {
+        "user@DESKTOP-NIL4A12": {
             "licenses": {
                 "Farm_bot": {
                     "expiration_date": "2026-11-05",
@@ -757,7 +757,7 @@
                     "chat_id_user_finish": ""
                 },
                 "Hunt": {
-                    "expiration_date": "2026-04-19",
+                    "expiration_date": "2026-03-19",
                     "chat_id_user_finish": ""
                 }
             }
