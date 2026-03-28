@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.20.07",
-    "download_url": "https://mega.nz/file/etFxVSYL#NOxY7QbbHfkuMzBo4DjIFWQtcU-AaCoDxRaK8JFj37w",
-    "changelog": "Changes in Farm_bot:\n- Fix bugs \n- Optimization of some functions"
+    "version": "1.20.09",
+    "download_url": "https://mega.nz/file/m1twRDpR#3rIwLCpA2SKi1vCSh74isDIVU1Ht8arwT1uDz28vWkU",
+    "changelog": "Changes in Farm_bot:\n- Added a new graphical settings menu \n- Added language selection \n- Optimized certain features \n- Optimized emulator performance \n- Reduced system load \n- Added new notifications \n- Reduced target change verification time (from 15 to 7 minutes) (Test)"
   },
   "Universal": {
     "version": "0.72",
