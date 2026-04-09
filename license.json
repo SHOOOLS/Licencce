@@ -170,6 +170,24 @@
                 }
             }
         },
+        "Feeline": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2025-03-08"
+                },
+                "Universal": {
+                    "expiration_date": "2026-05-01",
+                    "chat_id_user_finish": ""
+                },
+                "Hunt": {
+                    "expiration_date": "2026-05-09",
+                    "chat_id_user_finish": ""
+                },
+                "Rally_party": {
+                    "expiration_date": "2025-04-08"
+                }
+            }
+        },
         "Japan": {
             "licenses": {
                 "Farm_bot": {
