@@ -15,9 +15,9 @@
     "changelog": "Changes in Hunt:\n- Fixed known bugs.\n- User interface improvements (Monster hits now snap to the right edge of the main window). \n- Added a tooltip when hovering over the ‘Wait on’ button. \n- Minor optimizations"
   },
   "Rally_party": {
-    "version": "0.19.1",
-    "download_url": "https://mega.nz/file/ittxiIBR#yW1aivWjWDl0OMO4aAPGKcyB3RUyf2tEoU2952wQO7c",
-    "changelog": "Changes in Rally_party:\n- Now you can load the 'auto' list and add your quests there, for example (154, 202) \n- quests from the 'auto' list will be completed automatically, while yours will require manual completion.\n- Some fixes "
+    "version": "0.19.2",
+    "download_url": "https://mega.nz/file/2tM3WDLS#_3o0pXpAZkJdGrfe8tV7fYGK2Pw8VIAUVbFJtpyJGnw",
+    "changelog": "Changes in Rally_party:\n- Fix bugs "
   },
   "Filler": {
     "version": "1.41",
