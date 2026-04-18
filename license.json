@@ -21,6 +21,14 @@
                 }
             }
         },
+         "Hunters": {
+            "licenses": {
+                "Hunt": {
+                    "expiration_date": "2026-04-18",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
         "alexa": {
             "licenses": {
                 "Rally_party": {
@@ -383,14 +391,6 @@
                 "Universal": {
                     "expiration_date": "2025-11-04",
                     "chat_id_user_finish": "-4715748564"
-                }
-            }
-        },
-        "Hunters": {
-            "licenses": {
-                "Hunt": {
-                    "expiration_date": "2026-04-17",
-                    "chat_id_user_finish": ""
                 }
             }
         },
