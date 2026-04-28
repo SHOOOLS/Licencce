@@ -767,12 +767,16 @@
         "user@DESKTOP-NIL4A12": {
             "licenses": {
                 "Farm_bot": {
-                    "expiration_date": "2025-11-05",
+                    "expiration_date": "2026-05-28",
                     "chat_id_user_finish": "-4521479218"
                 },
                 "Universal": {
                     "expiration_date": "2026-05-20",
                     "chat_id_user_finish": ""
+                },
+                "Shield": {
+                    "expiration_date": "2026-05-28",
+                    "chat_id_user_finish": "-4836306484"
                 },
                 "Hunt": {
                     "expiration_date": "2026-03-19",
