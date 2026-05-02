@@ -742,6 +742,10 @@
                     "expiration_date": "2026-04-20",
                     "chat_id_user_finish": ""
                 },
+                "Shield": {
+                    "expiration_date": "2026-06-02",
+                    "chat_id_user_finish": "-4521479218"
+                },
                 "Hunt": {
                     "expiration_date": "2026-04-19",
                     "chat_id_user_finish": ""
