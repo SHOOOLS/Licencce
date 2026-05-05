@@ -182,7 +182,9 @@
             "licenses": {
                 "Farm_bot": {
                     "expiration_date": "2026-06-05",
-                    "chat_id_user_finish": "5174759898"
+                    "chat_id_user_finish": "5174759898",
+                    "ls_chat_id_user_finish": "5174759898",
+                    "ls_user_nickname": "Feline pm"
                 },
                 "Universal": {
                     "expiration_date": "2026-05-01",
@@ -345,7 +347,9 @@
             "licenses": {
                 "Farm_bot": {
                     "expiration_date": "2026-11-06",
-                    "chat_id_user_finish": "-4604876945"
+                    "chat_id_user_finish": "-4604876945",
+                    "ls_chat_id_user_finish": "743560864",
+                    "ls_user_nickname": "Filippo pm"
                 },
                 "Hunt": {
                     "expiration_date": "2026-11-06",
@@ -475,7 +479,9 @@
             "licenses": {
                 "Farm_bot": {
                     "expiration_date": "2026-08-29",
-                    "chat_id_user_finish": "-4604876945"
+                    "chat_id_user_finish": "-4604876945",
+                    "ls_chat_id_user_finish": "653304636",
+                    "ls_user_nickname": "DARKPOLLO pm"
                 },
                 "Universal": {
                     "expiration_date": "2026-08-29",
@@ -507,7 +513,9 @@
             "licenses": {
                 "Farm_bot": {
                     "expiration_date": "2026-05-15",
-                    "chat_id_user_finish": "-4880146474"
+                    "chat_id_user_finish": "-4880146474",
+                    "ls_chat_id_user_finish": "5247763781",
+                    "ls_user_nickname": "Artur7 pm"
                 },
                 "Hunt": {
                     "expiration_date": "2026-05-15",
@@ -527,7 +535,9 @@
             "licenses": {
                 "Farm_bot": {
                     "expiration_date": "2026-01-11",
-                    "chat_id_user_finish": "-4984347681"
+                    "chat_id_user_finish": "-4984347681",
+                    "ls_chat_id_user_finish": "2024803961",
+                    "ls_user_nickname": "Pitbull pm"
                 },
                 "Filler": {
                     "expiration_date": "2026-01-11",
@@ -563,7 +573,9 @@
                 },
                 "Farm_bot": {
                     "expiration_date": "2026-10-13",
-                    "chat_id_user_finish": "-1002714061811"
+                    "chat_id_user_finish": "-1002714061811",
+                    "ls_chat_id_user_finish": "769877055",
+                    "ls_user_nickname": "Fran pm"
                 },
                 "Filler": {
                     "expiration_date": "2026-10-20",
@@ -595,7 +607,9 @@
                 },
                 "Farm_bot": {
                     "expiration_date": "2026-10-13",
-                    "chat_id_user_finish": "-4836306484"
+                    "chat_id_user_finish": "-4836306484",
+                    "ls_chat_id_user_finish": "941839785",
+                    "ls_user_nickname": "UwuNoGod pm"
                 },
                 "Filler": {
                     "expiration_date": "2026-10-24",
@@ -627,7 +641,9 @@
             "licenses": {
                 "Farm_bot": {
                     "expiration_date": "2026-10-13",
-                    "chat_id_user_finish": "-1002714061811"
+                    "chat_id_user_finish": "-1002714061811",
+                    "ls_chat_id_user_finish": "7859650725",
+                    "ls_user_nickname": "Paco pm"
                 },
                 "Rally_party": {
                     "expiration_date": "2026-10-13",
@@ -659,7 +675,9 @@
             "licenses": {
                 "Farm_bot": {
                     "expiration_date": "2026-10-13",
-                    "chat_id_user_finish": "-1002714061811"
+                    "chat_id_user_finish": "-1002714061811",
+                    "ls_chat_id_user_finish": "7859650725",
+                    "ls_user_nickname": "Paco pm"
                 },
                 "Rally_party": {
                     "expiration_date": "2026-10-13",
@@ -831,7 +849,9 @@
             "licenses": {
                 "Farm_bot": {
                     "expiration_date": "2026-12-25",
-                    "chat_id_user_finish": "-5247524760"
+                    "chat_id_user_finish": "-5247524760",
+                    "ls_chat_id_user_finish": "-5247524760",
+                    "ls_user_nickname": "Francisco pm"
                 },
                 "Filler": {
                     "expiration_date": "2026-12-25",
@@ -903,7 +923,9 @@
             "licenses": {
                 "Farm_bot": {
                     "expiration_date": "2027-01-03",
-                    "chat_id_user_finish": "-4836306484"
+                    "chat_id_user_finish": "-4836306484",
+                    "ls_chat_id_user_finish": "5802145433",
+                    "ls_user_nickname": "Bitle pm"
                 },
                 "Diplo_bot": {
                     "expiration_date": "2027-01-03",
