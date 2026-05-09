@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.20.11",
-    "download_url": "https://mega.nz/file/y5lHhKSB#zUsPbDmbqKqylf03uewoVd7SOXXme0VzL8CslXwd6-o",
-    "changelog": "Changes in Farm bot:\n- Added calculation of the best farming spot (without teleport) \n- Added nickname change even if teleport is disabled (approximately every 30 minutes) \n- Optimized certain features \n- Added check for any guild member's rally if the (Guild Rally Report) setting is enabled \n- Added talent switch to combat talents upon detecting a rally or a drop in power"
+    "version": "1.20.14",
+    "download_url": "https://mega.nz/file/mpMAlJaC#WqOr3FH0Vmba9YiziES9_zIs-beyd3qlifD7q_3Xdwc",
+    "changelog": "Changes in Farm bot:\n-Optimized display of emulator connections \n-Optimized display of chats\n- Optimized certain features \n-Fix for bugs I know about "
   },
   "Universal": {
     "version": "0.72",
