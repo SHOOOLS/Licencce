@@ -15,9 +15,9 @@
     "changelog": "Changes in Hunt:\n- Fixed known bugs. \n- Minor optimizations"
   },
   "Rally_party": {
-    "version": "0.19.2",
-    "download_url": "https://mega.nz/file/2tM3WDLS#_3o0pXpAZkJdGrfe8tV7fYGK2Pw8VIAUVbFJtpyJGnw",
-    "changelog": "Changes in Rally_party:\n- Fix bugs "
+    "version": "0.19.4",
+    "download_url": "https://mega.nz/file/7xMQWTwI#sdZgtXz7K9O3P6Mg3J_KjAxzPlQR1v12C0J6up-vhC0",
+    "changelog": "Changes in Rally_party:\n- Added logic for auto quests 137 and 158 \n- Added a delay before entering the rally party menu \n- Optimized connection and display of emulators \n- Changed the logic for searching and deleting bad quests \n- Added timeouts for adb and tesseract \n- Added a Telegram notification if a quest was not completed \n- Fixed known bugs"
   },
   "Filler": {
     "version": "1.41",
