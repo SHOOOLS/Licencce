@@ -10,9 +10,9 @@
     "changelog": "Changes in Universal:\n- Some improvements"
   },
   "Hunt": {
-    "version": "1.60",
-    "download_url": "https://mega.nz/file/rgFVHKTb#bh5qvMSupNx1bpMrq2tES-k5a-bImi_NesOf6XBc6kc",
-    "changelog": "Changes in Hunt:\n- Fixed known bugs. \n- Minor optimizations"
+    "version": "1.61",
+    "download_url": "https://mega.nz/file/D10FGDaT#7EvJzo5TDr7z_LIBYmp-o6A4h8uQ43uIGx8Z9EyGi5k",
+    "changelog": "Changes in Hunt:\n- Bug fixes \n- Speed ​​improvements \n- Connection improvements \n- Minor fixes and improvements"
   },
   "Rally_party": {
     "version": "0.19.5",
