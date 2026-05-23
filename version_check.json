@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.20.14",
-    "download_url": "https://mega.nz/file/mpMAlJaC#WqOr3FH0Vmba9YiziES9_zIs-beyd3qlifD7q_3Xdwc",
-    "changelog": "Changes in Farm bot:\n- Optimized display of emulator connections \n- Optimized display of chats\n- Optimized certain features \n- Fix for bugs I know about "
+    "version": "1.20.15",
+    "download_url": "https://mega.nz/file/mgtxAIhT#t-m6n5lQOurlrghwp9EkEiaFOBxhtWi_MPanMfhkx-E",
+    "changelog": "Changes in Farm bot:\n- Fixed the bad target cleaning feature. \n- Thanks, Mr. Phillipo."
   },
   "Universal": {
     "version": "0.72",
