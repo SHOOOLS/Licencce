@@ -76,6 +76,21 @@
                 }
             }
         },
+        "Home": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2026-05-26"
+                },
+                "Universal": {
+                    "expiration_date": "2026-01-08",
+                    "chat_id_user_finish": "-4521479218"
+                },
+                "Hunt": {
+                    "expiration_date": "2025-11-05",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
         "Friends": {
             "licenses": {
                 "Farm_bot": {
