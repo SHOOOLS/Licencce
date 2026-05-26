@@ -188,7 +188,7 @@
                     "chat_id_user_finish": ""
                 },
                 "Hunt": {
-                    "expiration_date": "2026-05-04",
+                    "expiration_date": "2026-07-04",
                     "chat_id_user_finish": ""
                 },
                 "Rally_party": {
@@ -348,15 +348,15 @@
                     "chat_id_user_finish": "-4682053243"
                 },
                 "Hunt": {
-                    "expiration_date": "2026-06-04",
+                    "expiration_date": "2026-07-04",
                     "chat_id_user_finish": ""
                 },
                 "Trade": {
-                    "expiration_date": "2026-06-04",
+                    "expiration_date": "2026-07-04",
                     "chat_id_user_finish": "-4682053243"
                 },
                 "SpeedUp": {
-                    "expiration_date": "2026-06-04",
+                    "expiration_date": "2026-07-04",
                     "chat_id_user_finish": ""
                 }
             }
