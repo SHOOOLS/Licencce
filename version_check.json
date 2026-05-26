@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.20.15",
-    "download_url": "https://mega.nz/file/mgtxAIhT#t-m6n5lQOurlrghwp9EkEiaFOBxhtWi_MPanMfhkx-E",
-    "changelog": "Changes in Farm bot:\n- Fixed the bad target cleaning feature. \n- Thanks, Mr. Phillipo."
+    "version": "1.20.16",
+    "download_url": "https://mega.nz/file/Swd32IQA#zQ_MkLPthpgXVFNiydj_xkfB2H1lIR3wvEiEwdxj5LA",
+    "changelog": "Changes in Farm bot:\n- Added 'Back' button . Tim will buy me beer."
   },
   "Universal": {
     "version": "0.72",
