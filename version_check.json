@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.20.17",
-    "download_url": "https://mega.nz/file/vwMzTIaD#A2uU6DEn4f3hzKg9PPgq04JafVyqvT388POYSS_BRhQ",
-    "changelog": "Changes in Farm bot:\n- Hotfix \n- Added 'Back' button . Tim will buy me beer."
+    "version": "1.20.19",
+    "download_url": "https://mega.nz/file/3xMgSSLa#qqIH3ykvjBe1Bmu2hVpht_WcpE1a0dWl-cn5FYQ-sqc",
+    "changelog": "Changes in Farm bot:\n- Stability improvements \n- Fix bugs \n- Attack speed increase (1-3 seconds faster per attack) \n- New setting added (Use a shield under the rally) \n- If you're rallying and you're offline, your account will gain a shield after bs \n- THIS FUNCTION WILL NOT SAVE YOU 100%"
   },
   "Universal": {
     "version": "0.77",
