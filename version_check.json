@@ -35,9 +35,9 @@
     "changelog": "Changes in SpeedUp:\n- ..."
   },
   "Trade": {
-    "version": "1.44",
-    "download_url": "https://drive.google.com/...",
-    "changelog": "Changes in Trade:\n- ..."
+    "version": "1.45",
+    "download_url": "https://mega.nz/file/ykNmSB4R#JX4Kp7Zm1-OU6qnF04hLmI7WgNFUpL-PWNFYoBXyYb8",
+    "changelog": "Changes in Trade:\n- Added automatic kingdom size detection \n- Added trading from the bag. \n- Improved connection \n- Improved Tesseract and ADB error handling \n- Added equipment change if resources run out"
   }
 
 }
