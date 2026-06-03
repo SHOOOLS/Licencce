@@ -5,9 +5,9 @@
     "changelog": "Changes in Farm bot:\n- Hotfix \n- Added 'Back' button . Tim will buy me beer."
   },
   "Universal": {
-    "version": "0.72",
-    "download_url": "https://mega.nz/file/L8sSGQSL#qrlDR2PNObeARxCd8f-Ci6NCGV94vuu8gCj8V3PhpNk",
-    "changelog": "Changes in Universal:\n- Some improvements"
+    "version": "0.77",
+    "download_url": "https://mega.nz/file/j8dSgYhC#8VJZaVwOQQpByM2NIrC5T0T72CofbCDg8QjeqKMFV7A",
+    "changelog": "Changes in Universal:\n- Improved connection \n- Improved daily quest performance \n- Added a village collection quest \n- Bug fixes \n- If you find a bug, write to me in private with a video."
   },
   "Hunt": {
     "version": "1.63",
