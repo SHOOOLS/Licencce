@@ -5,9 +5,9 @@
     "changelog": "Changes in Farm bot:\n- Stability improvements \n- Fix bugs \n- Attack speed increase (1-3 seconds faster per attack) \n- New setting added (Use a shield under the rally) \n- If you're rallying and you're offline, your account will gain a shield after bs \n- THIS FUNCTION WILL NOT SAVE YOU 100%"
   },
   "Universal": {
-    "version": "0.77",
-    "download_url": "https://mega.nz/file/j8dSgYhC#8VJZaVwOQQpByM2NIrC5T0T72CofbCDg8QjeqKMFV7A",
-    "changelog": "Changes in Universal:\n- Improved connection \n- Improved daily quest performance \n- Added a village collection quest \n- Bug fixes \n- If you find a bug, write to me in private with a video."
+    "version": "0.78",
+    "download_url": "https://mega.nz/file/K9tURD7R#V645RiESGNMFVzoTUMwF_IWk11gKv5Xjo7IqPTq2yec",
+    "changelog": "Changes in Universal:\n- Fixed Cyrillic \n- The bot is now fully translated into the selected language \n- Let me know if you see any localization errors \n- Added a rally notification to a guildmate (no need to add them to lists) \n- Fixed reported bugs"
   },
   "Hunt": {
     "version": "1.63",
