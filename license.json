@@ -24,7 +24,7 @@
          "Hunters": {
             "licenses": {
                 "Hunt": {
-                    "expiration_date": "2026-06-07",
+                    "expiration_date": "2026-06-08",
                     "chat_id_user_finish": ""
                 }
             }
@@ -402,37 +402,37 @@
         "fsala": {
             "licenses": {
                 "Farm_bot": {
-                    "expiration_date": "2026-06-06",
+                    "expiration_date": "2026-06-27",
                     "chat_id_user_finish": "-4715748564",
                     "ls_chat_id_user_finish": "489817019",
                     "ls_user_nickname": "TheBoss pm"
                 },
                 "Hunt": {
-                    "expiration_date": "2026-06-06",
+                    "expiration_date": "2026-06-27",
                     "chat_id_user_finish": ""
                 },
                 "Trade": {
-                    "expiration_date": "2026-06-06",
+                    "expiration_date": "2026-06-27",
                     "chat_id_user_finish": "-4715748564"
                 },
                 "Universal": {
-                    "expiration_date": "2026-06-06",
+                    "expiration_date": "2026-06-27",
                     "chat_id_user_finish": "-4715748564"
                 },
                 "Filler": {
-                    "expiration_date": "2026-06-06",
+                    "expiration_date": "2026-06-27",
                     "chat_id_user_finish": "-4715748564"
                 },
                 "Diplo_bot": {
-                    "expiration_date": "2026-06-06",
+                    "expiration_date": "2026-06-27",
                     "chat_id_user_finish": ""
                 },
                 "Rally_party": {
-                    "expiration_date": "2026-06-06",
+                    "expiration_date": "2026-06-27",
                     "chat_id_user_finish": ""
                 },
                 "SpeedUp": {
-                    "expiration_date": "2026-06-06",
+                    "expiration_date": "2026-06-27",
                     "chat_id_user_finish": ""
                 }
             }
