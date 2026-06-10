@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.20.19",
-    "download_url": "https://mega.nz/file/3xMgSSLa#qqIH3ykvjBe1Bmu2hVpht_WcpE1a0dWl-cn5FYQ-sqc",
-    "changelog": "Changes in Farm bot:\n- Stability improvements \n- Fix bugs \n- Attack speed increase (1-3 seconds faster per attack) \n- New setting added (Use a shield under the rally) \n- If you're rallying and you're offline, your account will gain a shield after bs \n- THIS FUNCTION WILL NOT SAVE YOU 100%"
+    "version": "1.20.21",
+    "download_url": "https://mega.nz/file/eltWgTiY#iAzrxKHvqJmcIIk84EHf_8Abe6JL14ffjA41V8lCEGE",
+    "changelog": "Changes in Farm bot:\n- Added the option to use talents or not \n- Fix bugs \n- Added additional fallbacks when ADB drops \n- Added parallel use of ADB \n- Added a 'Continue' button after changing power \n- Added a notification about FW in the Kingdom"
   },
   "Universal": {
     "version": "0.78",
