@@ -570,7 +570,7 @@
         "oblez": {
             "licenses": {
                 "Farm_bot": {
-                    "expiration_date": "2026-01-11",
+                    "expiration_date": "2026-07-11",
                     "chat_id_user_finish": "-4984347681",
                     "ls_chat_id_user_finish": "2024803961",
                     "ls_user_nickname": "Pitbull pm"
@@ -584,7 +584,7 @@
                     "chat_id_user_finish": ""
                 },
                 "Trade": {
-                    "expiration_date": "2026-01-11",
+                    "expiration_date": "2026-07-11",
                     "chat_id_user_finish": "-4984347681"
                 },
                 "Universal": {
@@ -592,7 +592,7 @@
                     "chat_id_user_finish": "-4984347681"
                 },
                 "Hunt": {
-                    "expiration_date": "2026-01-11",
+                    "expiration_date": "2026-07-11",
                     "chat_id_user_finish": ""
                 },
                 "Rally_party": {
