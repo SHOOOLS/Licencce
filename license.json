@@ -548,21 +548,21 @@
         "Artur7": {
             "licenses": {
                 "Farm_bot": {
-                    "expiration_date": "2026-06-15",
+                    "expiration_date": "2027-06-15",
                     "chat_id_user_finish": "-4880146474",
                     "ls_chat_id_user_finish": "5247763781",
                     "ls_user_nickname": "Artur7 pm"
                 },
                 "Hunt": {
-                    "expiration_date": "2026-06-15",
+                    "expiration_date": "2027-06-15",
                     "chat_id_user_finish": ""
                 },
                 "Trade": {
-                    "expiration_date": "2026-06-15",
+                    "expiration_date": "2027-06-15",
                     "chat_id_user_finish": "-4880146474"
                 },
                 "Universal": {
-                    "expiration_date": "2026-06-15",
+                    "expiration_date": "2027-06-15",
                     "chat_id_user_finish": "-4880146474"
                 }
             }
