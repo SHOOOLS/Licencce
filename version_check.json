@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.20.21",
-    "download_url": "https://mega.nz/file/eltWgTiY#iAzrxKHvqJmcIIk84EHf_8Abe6JL14ffjA41V8lCEGE",
-    "changelog": "Changes in Farm bot:\n- Added the option to use talents or not \n- Fix bugs \n- Added additional fallbacks when ADB drops \n- Added parallel use of ADB \n- Added a 'Continue' button after changing power \n- Added a notification about FW in the Kingdom"
+    "version": "1.20.23",
+    "download_url": "https://mega.nz/file/Potx3JJS#RvOLLwbpDSOKFOSkezjwYqIvTo_cgz-j0mgSvjus8tg",
+    "changelog": "Changes in Farm bot:\n- Added MUMU player support \n- Known bugs fixed \n- Added save check \n- Slightly changed resource counting logic (we'll see if it improves) \n- Reworked the connection to support different emulators and situations (there may be issues, so let me know if you encounter any)\n- Feature and backend improvements"
   },
   "Universal": {
     "version": "0.78",
