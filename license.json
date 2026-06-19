@@ -399,50 +399,12 @@
                 }
             }
         },
-        "Filippo": {
-            "licenses": {
-                "Farm_bot": {
-                    "expiration_date": "2026-11-06",
-                    "chat_id_user_finish": "-4604876945",
-                    "ls_chat_id_user_finish": "743560864",
-                    "ls_user_nickname": "Filippo pm"
-                },
-                "Hunt": {
-                    "expiration_date": "2026-11-06",
-                    "chat_id_user_finish": ""
-                },
-                "Trade": {
-                    "expiration_date": "2026-11-06",
-                    "chat_id_user_finish": "-4604876945"
-                },
-                "Universal": {
-                    "expiration_date": "2026-11-06",
-                    "chat_id_user_finish": "-4604876945"
-                },
-                "Filler": {
-                    "expiration_date": "2026-11-06",
-                    "chat_id_user_finish": "-4604876945"
-                },
-                "Diplo_bot": {
-                    "expiration_date": "2026-10-31",
-                    "chat_id_user_finish": ""
-                },
-                "Rally_party": {
-                    "expiration_date": "2026-10-31",
-                    "chat_id_user_finish": ""
-                },
-                "SpeedUp": {
-                    "expiration_date": "2026-10-31",
-                    "chat_id_user_finish": ""
-                }
-            }
-        },
         "Sallemore": {
             "licenses": {
                 "Farm_bot": {
                     "expiration_date": "2026-11-06",
-                    "chat_id_user_finish": "-4604876945",
-                    "ls_chat_id_user_finish": "743560864",
+                    "chat_id_user_finish": "-5599395044",
+                    "ls_chat_id_user_finish": "7846907292",
                     "ls_user_nickname": ""
                 },
                 "Hunt": {
@@ -451,15 +413,15 @@
                 },
                 "Trade": {
                     "expiration_date": "2026-11-06",
-                    "chat_id_user_finish": "-4604876945"
+                    "chat_id_user_finish": "-5599395044"
                 },
                 "Universal": {
                     "expiration_date": "2026-11-06",
-                    "chat_id_user_finish": "-4604876945"
+                    "chat_id_user_finish": "-5599395044"
                 },
                 "Filler": {
                     "expiration_date": "2026-11-06",
-                    "chat_id_user_finish": "-4604876945"
+                    "chat_id_user_finish": "-5599395044"
                 },
                 "Diplo_bot": {
                     "expiration_date": "2026-10-31",
