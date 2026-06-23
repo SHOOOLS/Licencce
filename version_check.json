@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.20.23",
-    "download_url": "https://mega.nz/file/Potx3JJS#RvOLLwbpDSOKFOSkezjwYqIvTo_cgz-j0mgSvjus8tg",
-    "changelog": "Changes in Farm bot:\n- Added MUMU player support \n- Known bugs fixed \n- Added save check \n- Slightly changed resource counting logic (we'll see if it improves) \n- Reworked the connection to support different emulators and situations (there may be issues, so let me know if you encounter any)\n- Feature and backend improvements"
+    "version": "1.20.25",
+    "download_url": "https://mega.nz/file/LxdnSIbI#lRAc8J4ekpNIuWpa72GRr0nfkVVLhYU-POWjeQhYrpk",
+    "changelog": "Changes in Farm bot:\n- Known bugs fixed \n- Slightly changed resource counting logic \n- Reworked the connection to support different emulators and situations \n- Feature and backend improvements"
   },
   "Universal": {
     "version": "0.78",
