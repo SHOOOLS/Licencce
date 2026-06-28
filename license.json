@@ -866,11 +866,11 @@
         "user@DESKTOP-NIL4A12": {
             "licenses": {
                 "Farm_bot": {
-                    "expiration_date": "2026-06-28",
+                    "expiration_date": "2026-07-28",
                     "chat_id_user_finish": "-4521479218"
                 },
                 "Universal": {
-                    "expiration_date": "2026-06-28",
+                    "expiration_date": "2026-07-28",
                     "chat_id_user_finish": "-4521479218"
                 },
                 "Shield": {
@@ -878,7 +878,7 @@
                     "chat_id_user_finish": "-4521479218"
                 },
                 "Hunt": {
-                    "expiration_date": "2026-06-28",
+                    "expiration_date": "2026-07-28",
                     "chat_id_user_finish": ""
                 }
             }
