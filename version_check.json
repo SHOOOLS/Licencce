@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.20.25",
-    "download_url": "https://mega.nz/file/LxdnSIbI#lRAc8J4ekpNIuWpa72GRr0nfkVVLhYU-POWjeQhYrpk",
-    "changelog": "Changes in Farm bot:\n- Known bugs fixed \n- Slightly changed resource counting logic \n- Reworked the connection to support different emulators and situations \n- Feature and backend improvements"
+    "version": "1.20.27",
+    "download_url": "https://mega.nz/file/v8FBGBiD#0KDObEDo0bHW9lUp2o4zEjbfhzvmxL6JUYGzD_Bsnxc",
+    "changelog": "Changes in Farm bot:\n- Found bugs have been fixed and connection has been improved."
   },
   "Universal": {
     "version": "0.78",
