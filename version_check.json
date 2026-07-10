@@ -20,9 +20,9 @@
     "changelog": "Changes in Rally_party:\n- 228 quest addet to ignore delete list \n- Fixed bugs"
   },
   "Filler": {
-    "version": "1.41",
-    "download_url": "https://drive.google.com/...",
-    "changelog": "Changes in Filler:\n- ..."
+    "version": "1.43",
+    "download_url": "https://mega.nz/file/ygVHBJKR#PQdSjqD-VVuFvqPJkrFAbwLdeZbs7J_AATeoeAQ2Jjo",
+    "changelog": "Changes in Filler:\n- Fixed a bug with the Hell Event \n- Reduced the load from use \n- Added a mix mode button (uses slot 4) \n- Fixed healing from the bag"
   },
   "Speeder": {
     "version": "0.1",
