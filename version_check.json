@@ -15,9 +15,9 @@
     "changelog": "Changes in Hunt:\n- Fixes \n- Optimized some features \n- Minor fixes and improvements"
   },
   "Rally_party": {
-    "version": "0.19.5",
-    "download_url": "https://mega.nz/file/ahlwUSzR#gppGrSEVf4lOk2c0wL-Ds9PUad9ZgXwh1iOfrYYDwr8",
-    "changelog": "Changes in Rally_party:\n- 228 quest addet to ignore delete list \n- Fixed bugs"
+    "version": "0.19.7",
+    "download_url": "https://mega.nz/file/u1FBXC5A#VwjoXGM700JIKDYrPQFdifNCaGZWTO5DdhYnXV0EHj8",
+    "changelog": "Changes in Rally_party:\n- Added the ability to create custom lists \n- Added the ability to delete Turf Quests \n- Quest 167 added to Auto \n- Fixed bugs"
   },
   "Filler": {
     "version": "1.43",
