@@ -20,9 +20,9 @@
     "changelog": "Changes in Rally_party:\n- Added the ability to create custom lists \n- Added the ability to delete Turf Quests \n- Quest 167 added to Auto \n- Fixed bugs"
   },
   "Filler": {
-    "version": "1.43",
-    "download_url": "https://mega.nz/file/ygVHBJKR#PQdSjqD-VVuFvqPJkrFAbwLdeZbs7J_AATeoeAQ2Jjo",
-    "changelog": "Changes in Filler:\n- Fixed a bug with the Hell Event \n- Reduced the load from use \n- Added a mix mode button (uses slot 4) \n- Fixed healing from the bag"
+    "version": "1.44",
+    "download_url": "https://mega.nz/file/71MQ2BDA#niUNsmOkT3DIVpyDvsE41NEGiJYLxRALbMvA5NATF8g",
+    "changelog": "Changes in Filler:\n- Fixed bugs when refilling \n- 60-40 Cav Rng now uses slot 5 \n- 50-50, 40-60 Rng Cav now uses slot 4 \n- Mix uses slot 4"
   },
   "Speeder": {
     "version": "0.1",
