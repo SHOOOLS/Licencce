@@ -5,9 +5,9 @@
     "changelog": "Changes in Farm bot:\n- Found bugs have been fixed and connection has been improved."
   },
   "Universal": {
-    "version": "0.78",
-    "download_url": "https://mega.nz/file/K9tURD7R#V645RiESGNMFVzoTUMwF_IWk11gKv5Xjo7IqPTq2yec",
-    "changelog": "Changes in Universal:\n- Fixed Cyrillic \n- The bot is now fully translated into the selected language \n- Let me know if you see any localization errors \n- Added a rally notification to a guildmate (no need to add them to lists) \n- Fixed reported bugs"
+    "version": "0.79",
+    "download_url": "https://mega.nz/file/21UEEQLA#Z2IJODlikahToZr5ouW-ZVlVKMcJvbbi1B9YMwvvz-M",
+    "changelog": "Changes in Universal:\n- Added auto-logging \n- Fixed a possible bug \n- Changed the connection (now uses the window name instead of the phone model) \n- LD users, please let me know if this works for you (I can't test it)"
   },
   "Hunt": {
     "version": "1.63",
