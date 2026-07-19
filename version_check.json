@@ -6,7 +6,7 @@
   },
   "Universal": {
     "version": "0.79",
-    "download_url": "https://mega.nz/file/21UEEQLA#Z2IJODlikahToZr5ouW-ZVlVKMcJvbbi1B9YMwvvz-M",
+    "download_url": "https://mega.nz/file/HgFygZoB#sH7Lrnsdd577E9J6uk8jcsw6Bu8oTlpZtaA9w-Ebg94",
     "changelog": "Changes in Universal:\n- Added auto-logging \n- Fixed a possible bug \n- Changed the connection (now uses the window name instead of the phone model) \n- LD users, please let me know if this works for you (I can't test it)"
   },
   "Hunt": {
