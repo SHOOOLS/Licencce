@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.20.27",
-    "download_url": "https://mega.nz/file/v8FBGBiD#0KDObEDo0bHW9lUp2o4zEjbfhzvmxL6JUYGzD_Bsnxc",
-    "changelog": "Changes in Farm bot:\n- Found bugs have been fixed and connection has been improved."
+    "version": "1.20.29",
+    "download_url": "https://mega.nz/file/K4dUgTZA#E1PZi9STUixoMCPmroPINgaf1dVh43ePgj7iwjCcHg8",
+    "changelog": "Changes in Farm bot:\n- Updated connection list (now with Bluestacks menu) \n- Fixed a possible bug \n- Added farm statistics (graphs)"
   },
   "Universal": {
     "version": "0.79",
