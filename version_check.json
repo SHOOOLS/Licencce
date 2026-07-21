@@ -10,9 +10,9 @@
     "changelog": "Changes in Universal:\n- Added auto-logging \n- Fixed a possible bug \n- Changed the connection (now uses the window name instead of the phone model) \n- LD users, please let me know if this works for you (I can't test it)"
   },
   "Hunt": {
-    "version": "1.63",
-    "download_url": "https://mega.nz/file/zoVjCbSB#sx-Wzf1ImhWCxuddUcF55Ova5Ikj5IK_d1bgfAH-uLg",
-    "changelog": "Changes in Hunt:\n- Fixes \n- Optimized some features \n- Minor fixes and improvements"
+    "version": "1.68",
+    "download_url": "https://mega.nz/file/G913UbyK#T8EWYayfHEgfwQREZxTsnDCOTtYx774rRqoILB_-ds8",
+    "changelog": "Changes in Hunt:\n- Added a delay and check for equipment changes (they added a bunch of lag in the latest version of the game) \n- Added display of names from Bluestacks windows \n- Added a 3-minute delay before changing equipment after a hunt \n- Fixed some mechanics"
   },
   "Rally_party": {
     "version": "0.19.7",
