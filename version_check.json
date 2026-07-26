@@ -5,9 +5,9 @@
     "changelog": "Changes in Farm bot:\n- Updated connection list (now with Bluestacks menu) \n- Fixed a possible bug \n- Added farm statistics (graphs)"
   },
   "Universal": {
-    "version": "0.79",
-    "download_url": "https://mega.nz/file/HgFygZoB#sH7Lrnsdd577E9J6uk8jcsw6Bu8oTlpZtaA9w-Ebg94",
-    "changelog": "Changes in Universal:\n- Added auto-logging \n- Fixed a possible bug \n- Changed the connection (now uses the window name instead of the phone model) \n- LD users, please let me know if this works for you (I can't test it)"
+    "version": "0.81",
+    "download_url": "https://mega.nz/file/P8ElABgL#go8LyAzDWgd7Fz7qr5GtB26y2BAWVw1ldca8fYJI_LM",
+    "changelog": "Changes in Universal:\n- Fix LD connect \n- Fixed a possible bug \n- Add some checks"
   },
   "Hunt": {
     "version": "1.68",
