@@ -30,9 +30,9 @@
     "changelog": "Changes in Speeder:\n- ..."
   },
   "SpeedUp": {
-    "version": "0.35",
-    "download_url": "https://drive.google.com/...",
-    "changelog": "Changes in SpeedUp:\n- ..."
+    "version": "0.36",
+    "download_url": "https://mega.nz/file/P91zRSCD#zbGsBFeqbjCfJj8v2KSrnvAmAyfaf2fYce70uZRhfso",
+    "changelog": "Changes in SpeedUp:\n- Improved connectivity \n- Added more informative table display \n- Added a field with the last update date for the account"
   },
   "Trade": {
     "version": "1.45",
