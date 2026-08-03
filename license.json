@@ -779,6 +779,40 @@
                 }
             }
         },
+        "Administrator@Paco1": {
+            "licenses": {
+                "Farm_bot": {
+                    "expiration_date": "2026-10-13",
+                    "chat_id_user_finish": "-1002714061811",
+                    "ls_chat_id_user_finish": "7859650725",
+                    "ls_user_nickname": "Paco pm"
+                },
+                "Rally_party": {
+                    "expiration_date": "2026-10-13",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Hunt": {
+                    "expiration_date": "2026-11-28",
+                    "chat_id_user_finish": ""
+                },
+                "Universal": {
+                    "expiration_date": "2026-11-29",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "Filler": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": "-1002714061811"
+                },
+                "SpeedUp": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": ""
+                },
+                "Trade": {
+                    "expiration_date": "2026-11-23",
+                    "chat_id_user_finish": "-1002714061811"
+                }
+            }
+        },
         "Nikola": {
             "licenses": {
                 "Farm_bot": {
