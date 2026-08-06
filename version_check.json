@@ -10,9 +10,9 @@
     "changelog": "Changes in Universal:\n- Fix LD connect \n- Fixed a possible bug \n- Add some checks"
   },
   "Hunt": {
-    "version": "1.68",
-    "download_url": "https://mega.nz/file/G913UbyK#T8EWYayfHEgfwQREZxTsnDCOTtYx774rRqoILB_-ds8",
-    "changelog": "Changes in Hunt:\n- Added a delay and check for equipment changes (they added a bunch of lag in the latest version of the game) \n- Added display of names from Bluestacks windows \n- Added a 3-minute delay before changing equipment after a hunt \n- Fixed some mechanics"
+    "version": "1.71",
+    "download_url": "https://mega.nz/file/S5dnlbQL#V7LR3dune7rKeQcz2yI-A8XCL3fcfDt36-xeq9uAHvM",
+    "changelog": "Changes in Hunt:\n- More stable with multiple emulators — fewer connection dropouts \n- Reduced CPU load \n- Screenshots are faster and less likely to freeze under PC load \n- Fixed issues where multiple windows interfered with each other \n- Better MuMu support (newer versions / Android 15) \n- Better LDPlayer detection and window matching \n- Warns immediately if screen resolution is not 1280×720 \n- Settings are saved more reliably"
   },
   "Rally_party": {
     "version": "0.19.7",
