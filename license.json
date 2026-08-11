@@ -608,33 +608,33 @@
         "oblez": {
             "licenses": {
                 "Farm_bot": {
-                    "expiration_date": "2026-08-11",
+                    "expiration_date": "2026-09-11",
                     "chat_id_user_finish": "-4984347681",
                     "ls_chat_id_user_finish": "2024803961",
                     "ls_user_nickname": "Pitbull pm"
                 },
                 "Filler": {
-                    "expiration_date": "2026-01-11",
+                    "expiration_date": "2026-09-11",
                     "chat_id_user_finish": "-4984347681"
                 },
                 "SpeedUp": {
-                    "expiration_date": "2026-01-11",
+                    "expiration_date": "2026-09-11",
                     "chat_id_user_finish": ""
                 },
                 "Trade": {
-                    "expiration_date": "2026-08-11",
+                    "expiration_date": "2026-09-11",
                     "chat_id_user_finish": "-4984347681"
                 },
                 "Universal": {
-                    "expiration_date": "2026-01-11",
+                    "expiration_date": "2026-09-11",
                     "chat_id_user_finish": "-4984347681"
                 },
                 "Hunt": {
-                    "expiration_date": "2026-08-11",
+                    "expiration_date": "2026-09-11",
                     "chat_id_user_finish": ""
                 },
                 "Rally_party": {
-                    "expiration_date": "2026-01-11",
+                    "expiration_date": "2026-09-11",
                     "chat_id_user_finish": ""
                 }
             }
