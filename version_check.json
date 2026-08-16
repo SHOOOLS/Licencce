@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.20.32",
-    "download_url": "https://mega.nz/file/DgcAVJCZ#NUu_I_MOn4YFzX6gpytmk29iYa-0IUMQghc_c4uhy0k",
-    "changelog": "Changes in Farm bot:\n- Fix login stuck"
+    "version": "1.20.33",
+    "download_url": "https://mega.nz/file/Kp82GLCK#BQGfBqdETzkkfGi27C4DE9PPLfn2MisnpSOHbI-0XQs",
+    "changelog": "Changes in Farm bot:\n- Warns immediately if screen resolution is not 1280×720 \n- Settings and farm files are saved more safely (less chance of corruption) \n- Faster and more stable emulator commands (ADB) \n- Better game loading detection and recovery \n- More reliable resource reading and teleport coordinates \n- Cleaner restart flow after freezes or stuck states"
   },
   "Universal": {
     "version": "0.81",
