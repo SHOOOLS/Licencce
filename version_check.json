@@ -5,9 +5,9 @@
     "changelog": "Changes in Farm bot:\n- Warns immediately if screen resolution is not 1280×720 \n- Settings and farm files are saved more safely (less chance of corruption) \n- Faster and more stable emulator commands (ADB) \n- Better game loading detection and recovery \n- More reliable resource reading and teleport coordinates \n- Cleaner restart flow after freezes or stuck states"
   },
   "Universal": {
-    "version": "0.81",
-    "download_url": "https://mega.nz/file/P8ElABgL#go8LyAzDWgd7Fz7qr5GtB26y2BAWVw1ldca8fYJI_LM",
-    "changelog": "Changes in Universal:\n- Fix LD connect \n- Fixed a possible bug \n- Add some checks"
+    "version": "0.84",
+    "download_url": "https://mega.nz/file/zsl21YTC#2IM0CegCjH59e2bhxeGZMj-9cmQsItTz6VBMSq3qooQ",
+    "changelog": "Changes in Universal:\n- Collect Resources mode — a separate tab in the settings (BETA) \n\n- Resource collection on the world map: Food / Stone / Wood / Gold (or All) \n- Tile level filter: 1–5 or All \n- Equipment slot for collection (Resources equip 1–10) \n- Random TP if there are no free tiles \n- Skip occupied tiles and those where a squad has already been sent \n- With full squads: alliance help + collecting guild gifts on :20 and :40 \n- Settings window: two tabs — Settings and Collect Resources \n- More stable ADB: auto-reconnection, timeouts, fewer freezes, offline duplicate cleanup \n- More correct handling of emulator-XXXX / aliases 127.0.0.1:port on Android 15 \n \n- Collect ress = separate mode. If enabled, the normal cycle (hell / daily / door / rally) is not started!!!!!"
   },
   "Hunt": {
     "version": "1.71",
