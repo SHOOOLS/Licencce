@@ -246,22 +246,22 @@
         "HeBoSs": {
             "licenses": {
                 "Farm_bot": {
-                    "expiration_date": "2025-11-04",
+                    "expiration_date": "2027-11-04",
                     "chat_id_user_finish": ""
                 },
                 "Universal": {
-                    "expiration_date": "2025-11-04",
+                    "expiration_date": "2027-11-04",
                     "chat_id_user_finish": ""
                 },
                 "Hunt": {
-                    "expiration_date": "2025-11-04",
+                    "expiration_date": "2027-11-04",
                     "chat_id_user_finish": ""
                 },
                 "Rally_party": {
-                    "expiration_date": "2025-02-08"
+                    "expiration_date": "2027-02-08"
                 },
                 "Shield": {
-                    "expiration_date": "2025-02-08"
+                    "expiration_date": "2027-02-08"
                 }
             }
         },
