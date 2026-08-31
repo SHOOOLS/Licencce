@@ -268,30 +268,30 @@
         "DARKPOLLO": {
             "licenses": {
                 "Farm_bot": {
-                    "expiration_date": "2026-08-29",
+                    "expiration_date": "2027-08-29",
                     "chat_id_user_finish": "-4604876945"
                 },
                 "Universal": {
-                    "expiration_date": "2026-08-29",
+                    "expiration_date": "2027-08-29",
                     "chat_id_user_finish": "-4604876945"
                 },
                 "Hunt": {
-                    "expiration_date": "2026-08-29",
+                    "expiration_date": "2027-08-29",
                     "chat_id_user_finish": ""
                 },
                 "Rally_party": {
-                    "expiration_date": "2026-02-08",
+                    "expiration_date": "2027-02-08",
                     "chat_id_user_finish": "-4604876945"
                 },
                 "Shield": {
-                    "expiration_date": "2025-02-08"
+                    "expiration_date": "2027-02-08"
                 },
                 "Trade": {
-                    "expiration_date": "2026-12-02",
+                    "expiration_date": "2027-12-02",
                     "chat_id_user_finish": "-4604876945"
                 },
                 "Diplo_bot": {
-                    "expiration_date": "2025-05-28"
+                    "expiration_date": "2027-05-28"
                 }
             }
         },
