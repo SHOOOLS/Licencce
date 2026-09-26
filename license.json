@@ -629,12 +629,24 @@
                     "expiration_date": "2028-09-20",
                     "chat_id_user_finish": "-4984347681"
                 },
-                "Hunt": {
-                    "expiration_date": "2028-09-20",
+                "Rally_party": {
+                    "expiration_date": "2026-12-02",
                     "chat_id_user_finish": ""
                 },
-                "Rally_party": {
-                    "expiration_date": "2028-09-20",
+                "Shield": {
+                    "expiration_date": "2026-12-02",
+                    "chat_id_user_finish": ""
+                },
+                "SpeedUp": {
+                    "expiration_date": "2026-12-02",
+                    "chat_id_user_finish": ""
+                },
+                "Speeder": {
+                    "expiration_date": "2026-12-02",
+                    "chat_id_user_finish": ""
+                },
+                "Diplo_bot": {
+                    "expiration_date": "2026-12-02",
                     "chat_id_user_finish": ""
                 }
             }
