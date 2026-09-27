@@ -898,7 +898,7 @@
         "Mircea Jan": {
             "licenses": {
                 "Farm_bot": {
-                    "expiration_date": "2026-04-28",
+                    "expiration_date": "2026-08-28",
                     "chat_id_user_finish": "-4677941857"
                 },
                 "Trade": {
@@ -906,7 +906,7 @@
                     "chat_id_user_finish": "-4677941857"
                 },
                 "Hunt": {
-                    "expiration_date": "2026-04-28",
+                    "expiration_date": "2026-10-28",
                     "chat_id_user_finish": ""
                 }
             }
