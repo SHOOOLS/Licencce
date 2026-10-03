@@ -5,9 +5,9 @@
     "changelog": "Changes in Farm bot:\n- Warns immediately if screen resolution is not 1280×720 \n- Settings and farm files are saved more safely (less chance of corruption) \n- Faster and more stable emulator commands (ADB) \n- Better game loading detection and recovery \n- More reliable resource reading and teleport coordinates \n- Cleaner restart flow after freezes or stuck states"
   },
   "Universal": {
-    "version": "0.85",
-    "download_url": "https://mega.nz/file/PkVQ3SwK#Gjs5wZco9YSOByu5Ngv1Nh6GANs2nyUDkzVJn2OXeW4",
-    "changelog": "Changes in Universal:\n- Fix gold tile"
+    "version": "0.87",
+    "download_url": "https://mega.nz/file/fktm1TqZ#VaeYdY8hoYNIiZoii5AsDXeg-3ak4whBMGN85Hej9mA",
+    "changelog": "Changes in Universal:\n- Added support for Discord group notifications (message me if you want to add this to your group).\n- Emulator screenshots no longer hang indefinitely. \n- ADB calls share a thread pool.\n- The console updates in batches and retains a maximum of 3,000 lines. Bot threads no longer interact with the window directly. \n- Errors are flushed to log.txt immediately. Native crashes and window closures are written to crash.log.\n- Minor fixes and improvements."
   },
   "Hunt": {
     "version": "1.71",
