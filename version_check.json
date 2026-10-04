@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.20.33",
-    "download_url": "https://mega.nz/file/Kp82GLCK#BQGfBqdETzkkfGi27C4DE9PPLfn2MisnpSOHbI-0XQs",
-    "changelog": "Changes in Farm bot:\n- Warns immediately if screen resolution is not 1280×720 \n- Settings and farm files are saved more safely (less chance of corruption) \n- Faster and more stable emulator commands (ADB) \n- Better game loading detection and recovery \n- More reliable resource reading and teleport coordinates \n- Cleaner restart flow after freezes or stuck states"
+    "version": "1.20.36",
+    "download_url": "https://mega.nz/file/71033YCS#JTWZqSzY9H_nmsBFEjQ-dnVjHeRxgwAUYWS-92bLV7Y",
+    "changelog": "Changes in Farm bot:\n-Farm Chart: resources and efficiency over time, with pause, break, ADB, and Hell marked on the graph \n- Active farm time is counted separately from total time, and chart history is saved\n- Discord alerts for Hell events, rallies, and Fortress War\n- If the gear menu gets stuck, the bot pauses, sends a screenshot, and waits until you are back on the world map \n- Target list H fixed \n- Emulator reconnects more reliably when the ADB connection drops"
   },
   "Universal": {
     "version": "0.87",
