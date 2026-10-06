@@ -658,33 +658,33 @@
         "FRAN": {
             "licenses": {
                 "Rally_party": {
-                    "expiration_date": "2026-10-09",
+                    "expiration_date": "2027-10-09",
                     "chat_id_user_finish": ""
                 },
                 "Farm_bot": {
-                    "expiration_date": "2026-10-13",
+                    "expiration_date": "2027-10-13",
                     "chat_id_user_finish": "-1002714061811",
                     "ls_chat_id_user_finish": "769877055",
                     "ls_user_nickname": "Fran pm"
                 },
                 "Filler": {
-                    "expiration_date": "2026-10-20",
+                    "expiration_date": "2027-10-20",
                     "chat_id_user_finish": "-1002714061811"
                 },
                 "Universal": {
-                    "expiration_date": "2026-10-20",
+                    "expiration_date": "2027-10-20",
                     "chat_id_user_finish": "-1002714061811"
                 },
                 "Hunt": {
-                    "expiration_date": "2026-11-28",
+                    "expiration_date": "2027-11-28",
                     "chat_id_user_finish": ""
                 },
                 "SpeedUp": {
-                    "expiration_date": "2026-11-23",
+                    "expiration_date": "2027-11-23",
                     "chat_id_user_finish": ""
                 },
                 "Trade": {
-                    "expiration_date": "2026-11-23",
+                    "expiration_date": "2027-11-23",
                     "chat_id_user_finish": "-1002714061811"
                 }
             }
