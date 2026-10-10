@@ -622,7 +622,7 @@
                     "chat_id_user_finish": ""
                 },
                 "Hunt": {
-                    "expiration_date": "2027-06-15",
+                    "expiration_date": "2028-06-15",
                     "chat_id_user_finish": ""
                 },
                 "Trade": {
@@ -634,23 +634,23 @@
                     "chat_id_user_finish": "-4984347681"
                 },
                 "Rally_party": {
-                    "expiration_date": "2026-12-02",
+                    "expiration_date": "2028-12-02",
                     "chat_id_user_finish": ""
                 },
                 "Shield": {
-                    "expiration_date": "2026-12-02",
+                    "expiration_date": "2028-12-02",
                     "chat_id_user_finish": ""
                 },
                 "SpeedUp": {
-                    "expiration_date": "2026-12-02",
+                    "expiration_date": "2028-12-02",
                     "chat_id_user_finish": ""
                 },
                 "Speeder": {
-                    "expiration_date": "2026-12-02",
+                    "expiration_date": "2028-12-02",
                     "chat_id_user_finish": ""
                 },
                 "Diplo_bot": {
-                    "expiration_date": "2026-12-02",
+                    "expiration_date": "2028-12-02",
                     "chat_id_user_finish": ""
                 }
             }
