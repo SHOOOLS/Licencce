@@ -1,18 +1,18 @@
 {
   "Farm_bot": {
-    "version": "1.20.36",
-    "download_url": "https://mega.nz/file/71033YCS#JTWZqSzY9H_nmsBFEjQ-dnVjHeRxgwAUYWS-92bLV7Y",
-    "changelog": "Changes in Farm bot:\n-Farm Chart: resources and efficiency over time, with pause, break, ADB, and Hell marked on the graph \n- Active farm time is counted separately from total time, and chart history is saved\n- Discord alerts for Hell events, rallies, and Fortress War\n- If the gear menu gets stuck, the bot pauses, sends a screenshot, and waits until you are back on the world map \n- Target list H fixed \n- Emulator reconnects more reliably when the ADB connection drops"
+    "version": "1.20.37",
+    "download_url": "https://mega.nz/file/7otRgTII#kOsA0c4ZYvnrTYej_T3TbipRdFNX7rO2pylBYqrIsdw",
+    "changelog": "Changes in Farm bot:\n- Discord alerts for Hell events, rallies, and Fortress War (rally cooldown 1 min, FW cooldown 3 hours)\n- Guild rally alerts ignore targets on Fort / Citadel / Capital\n- Equip: handles the window closing itself after gear select(low fps bag)"
   },
   "Universal": {
-    "version": "0.87",
-    "download_url": "https://mega.nz/file/fktm1TqZ#VaeYdY8hoYNIiZoii5AsDXeg-3ak4whBMGN85Hej9mA",
-    "changelog": "Changes in Universal:\n- Added support for Discord group notifications (message me if you want to add this to your group).\n- Emulator screenshots no longer hang indefinitely. \n- ADB calls share a thread pool.\n- The console updates in batches and retains a maximum of 3,000 lines. Bot threads no longer interact with the window directly. \n- Errors are flushed to log.txt immediately. Native crashes and window closures are written to crash.log.\n- Minor fixes and improvements."
+    "version": "0.88",
+    "download_url": "https://mega.nz/file/vwciBaaT#j3JFDatsTi90WBtEN-ktIEXSczFmOi3DP4Dv9dgQu4o",
+    "changelog": "Changes in Universal bot:\n- Guild rally alerts ignore targets on Fort / Citadel / Capital (OCR filter)\n- Discord rally alert cooldown increased from 30 seconds to 1 minute\n- Fast equip: handles the window closing itself after gear select(low fps bag)"  
   },
   "Hunt": {
-    "version": "1.71",
-    "download_url": "https://mega.nz/file/S5dnlbQL#V7LR3dune7rKeQcz2yI-A8XCL3fcfDt36-xeq9uAHvM",
-    "changelog": "Changes in Hunt:\n- More stable with multiple emulators — fewer connection dropouts \n- Reduced CPU load \n- Screenshots are faster and less likely to freeze under PC load \n- Fixed issues where multiple windows interfered with each other \n- Better MuMu support (newer versions / Android 15) \n- Better LDPlayer detection and window matching \n- Warns immediately if screen resolution is not 1280×720 \n- Settings are saved more reliably"
+    "version": "1.72",
+    "download_url": "https://mega.nz/file/vgEjgb7T#G9uYCwbYSAignlGK8CH-UNAxdIL87aSAiNwW19Tv67c",
+    "changelog": "Changes in Hunt:\n- Optimization of the UI and internal logic, simplification of settings, faster initialization, and improvements to notifications and stability.\n- Reduced CPU load"
   },
   "Rally_party": {
     "version": "0.19.7",
