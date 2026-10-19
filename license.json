@@ -29,6 +29,14 @@
                 }
             }
         },
+        "sblar": {
+            "licenses": {
+                "Hunt": {
+                    "expiration_date": "2027-09-21",
+                    "chat_id_user_finish": ""
+                }
+            }
+        },
         "alexa": {
             "licenses": {
                 "Rally_party": {
