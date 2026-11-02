@@ -10,9 +10,9 @@
     "changelog": "Changes in Universal bot:\n- Guild rally alerts ignore targets on Fort / Citadel / Capital (OCR filter)\n- Discord rally alert cooldown increased from 30 seconds to 1 minute\n- Fast equip: handles the window closing itself after gear select(low fps bag)"  
   },
   "Hunt": {
-    "version": "1.72",
-    "download_url": "https://mega.nz/file/vgEjgb7T#G9uYCwbYSAignlGK8CH-UNAxdIL87aSAiNwW19Tv67c",
-    "changelog": "Changes in Hunt:\n- Optimization of the UI and internal logic, simplification of settings, faster initialization, and improvements to notifications and stability.\n- Reduced CPU load"
+    "version": "1.73",
+    "download_url": "https://mega.nz/file/utkwGCYD#8mHYqnDsvYpznHyYtI-zRDNBBRA_PjFPj0RRmf1ENOs",
+    "changelog": "Changes in Hunt:\n- Added Sellect All button"
   },
   "Rally_party": {
     "version": "0.19.7",
