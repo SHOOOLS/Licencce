@@ -15,8 +15,8 @@
     "changelog": "Changes in Hunt:\n- Added Sellect All button"
   },
   "Rally_party": {
-    "version": "0.20.0",
-    "download_url": "https://mega.nz/file/utkwGbjQ#J8qtM8hnawIeTnaKd57dSH0gRpaNjJxJiKa1heu2Z7w",
+    "version": "0.20.1",
+    "download_url": "https://mega.nz/file/HxFz0ApD#3GC0s8togQd6aGL-YUlgWF8cqdyV7HsirdkXHlbrQLc",
     "changelog": "Changes in Rally_party:\n- Quest list shows names. Add a quest from the list on the right. Custom presets use the same list. \n- Optimization connect ld 14, and has Select All. \n- Back returns to account and quest settings. Bots keep running and pick up the new quest list.\n- If a step cannot be finished, that account stops and waits for Continue. A screenshot goes to Telegram. \n- Gear is equipped only after the menu loads. \n- With several emulators, ADB reconnects after a drop."
   },
   "Filler": {
