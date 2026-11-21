@@ -20,9 +20,9 @@
     "changelog": "Changes in Rally_party:\n- Startup optimization \n- Added quest 161 (Hunting) \n- Added a system to restart the application in the event of errors"
   },
   "Filler": {
-    "version": "1.44",
-    "download_url": "https://mega.nz/file/71MQ2BDA#niUNsmOkT3DIVpyDvsE41NEGiJYLxRALbMvA5NATF8g",
-    "changelog": "Changes in Filler:\n- Fixed bugs when refilling \n- 60-40 Cav Rng now uses slot 5 \n- 50-50, 40-60 Rng Cav now uses slot 4 \n- Mix uses slot 4"
+    "version": "1.49",
+    "download_url": "https://mega.nz/file/78s3BCIB#TkabCqTo16_L1BRsu2yypHx-UjHHmUmdu4Dw1u_O9-Y",
+    "changelog": "Changes in Filler:\n- Faster emulator search. \n- Select All selects every emulator \n- Heal every N (CW): heal after every Nth rally join (1–30). 1 is the old behavior. The value is saved. \n- Gear waits for the profile and fast-equip menus. \n- March and rally timers are read more reliably."
   },
   "Speeder": {
     "version": "0.1",
