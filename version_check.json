@@ -1,8 +1,8 @@
 {
   "Farm_bot": {
-    "version": "1.20.37",
-    "download_url": "https://mega.nz/file/7otRgTII#kOsA0c4ZYvnrTYej_T3TbipRdFNX7rO2pylBYqrIsdw",
-    "changelog": "Changes in Farm bot:\n- Discord alerts for Hell events, rallies, and Fortress War (rally cooldown 1 min, FW cooldown 3 hours)\n- Guild rally alerts ignore targets on Fort / Citadel / Capital\n- Equip: handles the window closing itself after gear select(low fps bag)"
+    "version": "1.20.38",
+    "download_url": "https://mega.nz/file/608iHTKa#4wBh1iq9ajisXBqHUSVNoHCunzlimUT2NXbI_x5HqLs",
+    "changelog": "Changes in Farm bot:\n- Fix new update"
   },
   "Universal": {
     "version": "0.88",
