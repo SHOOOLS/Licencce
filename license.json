@@ -306,37 +306,37 @@
         "SHOOLS": {
             "licenses": {
                 "Farm_bot": {
-                    "expiration_date": "2026-12-10",
+                    "expiration_date": "2045-12-10",
                     "chat_id_user_finish": "-4836306484",
                     "ls_chat_id_user_finish": "-4906702089",
                     "ls_user_nickname": "SHoOLS"
                 },
                 "Filler": {
-                    "expiration_date": "2026-12-02",
+                    "expiration_date": "2045-12-02",
                     "chat_id_user_finish": "-4836306484"
                 },
                 "Trade": {
-                    "expiration_date": "2026-12-02",
+                    "expiration_date": "2045-12-02",
                     "chat_id_user_finish": "-4836306484"
                 },
                 "Universal": {
-                    "expiration_date": "2026-12-02",
+                    "expiration_date": "2045-12-02",
                     "chat_id_user_finish": "-4836306484"
                 },
                 "Hunt": {
-                    "expiration_date": "2026-12-02",
+                    "expiration_date": "2045-12-02",
                     "chat_id_user_finish": "-4836306484"
                 },
                 "Rally_party": {
-                    "expiration_date": "2026-12-02",
+                    "expiration_date": "2045-12-02",
                     "chat_id_user_finish": ""
                 },
                 "Shield": {
-                    "expiration_date": "2026-12-02",
+                    "expiration_date": "2045-12-02",
                     "chat_id_user_finish": ""
                 },
                 "SpeedUp": {
-                    "expiration_date": "2026-12-02",
+                    "expiration_date": "2045-12-02",
                     "chat_id_user_finish": ""
                 },
                 "Speeder": {
@@ -344,7 +344,7 @@
                     "chat_id_user_finish": ""
                 },
                 "Diplo_bot": {
-                    "expiration_date": "2026-12-02",
+                    "expiration_date": "2045-12-02",
                     "chat_id_user_finish": ""
                 }
             }
